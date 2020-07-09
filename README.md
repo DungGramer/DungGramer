@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Nguyễn Công Dũng. I'm fresher Front-end Web Developer.  
 🌱 I’m currently learning React Native  
-📫 How to reach me: [Facebook](https://www.facebook.com/dung.dev.gramer/) | <a href="tel:+84334565999">0334565999</a>
+📫 How to reach me: [Facebook](https://www.facebook.com/dung.dev.gramer/) | [Linkedin](https://www.linkedin.com/in/DungGramer/)
 <!--
 **DungGramer/DungGramer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
