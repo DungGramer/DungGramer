@@ -3,7 +3,6 @@
 ❤️ I love Programming, making application/software for Mobile, Web and Desktop. It does feel amazing to see myself improving. Hope to improve everything around me one day...  
 
 📫 How to reach me: [Facebook](https://www.facebook.com/dung.dev.gramer/) | [Linkedin](https://www.linkedin.com/in/DungGramer/)  
-🙏 Thank you for visiting my portfolio.
 
 <!--
 **DungGramer/DungGramer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
