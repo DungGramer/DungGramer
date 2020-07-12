@@ -2,8 +2,8 @@
 👍 I'm Nguyễn Công Dũng. I'm fresher Front-end Web Developer.  
 ❤️ I love Programming, making application/software for Mobile, Web and Desktop. It does feel amazing to see myself improving. Hope to improve everything around me one day...  
 
-📫 How to reach me:  
-[![Facebook](https://raw.githubusercontent.com/DungGramer/DungGramer/master/icon/facebook2.svg)](https://www.facebook.com/dung.dev.gramer/) [![Linkedin](https://raw.githubusercontent.com/DungGramer/DungGramer/master/icon/linkedin2.svg)](https://www.linkedin.com/in/DungGramer/)
+📫 How to reach me:  <br />  
+[![Facebook](https://raw.githubusercontent.com/DungGramer/DungGramer/master/icon/facebook2.svg)](https://www.facebook.com/dung.dev.gramer/)  [![Linkedin](https://raw.githubusercontent.com/DungGramer/DungGramer/master/icon/linkedin2.svg)](https://www.linkedin.com/in/DungGramer/)
 <!--
 **DungGramer/DungGramer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
