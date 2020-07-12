@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   viewBox="0 0 181.46667 46.666668"
+   height="46.666668"
+   width="181.46667"
+   xml:space="preserve"
+   id="svg2"
+   version="1.1"><metadata
+     id="metadata8"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+     id="defs6"><clipPath
+       id="clipPath26"
+       clipPathUnits="userSpaceOnUse"><path
+         id="path24"
+         d="M 0,35 H 136.1 V 0 H 0 Z" /></clipPath></defs><g
+     transform="matrix(1.3333333,0,0,-1.3333333,0,46.666667)"
+     id="g10"><path
+       id="path12"
+       style="fill:#2d88ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="M 35,0 H 136.1 V 35 H 35 Z" /><path
+       id="path14"
+       style="fill:#eaebef;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="M 0,0 H 35 V 35 H 0 Z" /><text
+       id="text18"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'Century Gothic';-inkscape-font-specification:CenturyGothic;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(1,0,0,-1,38.3003,13.6484)"><tspan
+         id="tspan16"
+         y="0"
+         x="0 8.184 14.872 21.582001 28.985001 32.032001 39.567001 46.716999 52.811001 55.858002 63.261002 66.571999 74.084999 84.403 91.553001">Dung.dev.gramer</tspan></text>
+<g
+       id="g20"><g
+         clip-path="url(#clipPath26)"
+         id="g22"><g
+           transform="translate(21.7832,19.5806)"
+           id="g28"><path
+             id="path30"
+             style="fill:#2d88ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             d="m 0,0 h -2.869 v 1.628 c 0,0.84 0.068,1.369 1.272,1.369 h 1.52 v 2.588 c -0.739,0.077 -1.484,0.114 -2.228,0.112 -2.208,0 -3.82,-1.348 -3.82,-3.824 V 0 h -2.441 v -3.255 l 2.441,10e-4 v -7.327 h 3.256 v 7.328 l 2.495,0.001 z" /></g></g></g></g></svg>
