@@ -1,4 +1,5 @@
 ## Hi there 👋
+[![Cover](https://raw.githubusercontent.com/DungGramer/DungGramer/master/icon/cover-github.png)](https://github.com/DungGramer/)  
 👍 I'm Nguyễn Công Dũng. I'm fresher Front-end Web Developer.  
 ❤️ I love Programming, making application/software for Mobile, Web and Desktop. It does feel amazing to see myself improving. Hope to improve everything around me one day...  
 
