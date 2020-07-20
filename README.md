@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 👍 I'm Nguyễn Công Dũng. I'm fresher Front-end Web Developer.  
 ❤️ I love Programming, making application/software for Mobile, Web and Desktop. It does feel amazing to see myself improving. Hope to improve everything around me one day...  
 
