@@ -1,6 +1,8 @@
 ## Hi there 👋
 [![Cover](https://raw.githubusercontent.com/DungGramer/DungGramer/master/icon/cover-2.png)](https://github.com/DungGramer/)    
-  
+ 
+<br />
+ 
 ### <div align="center">👍 I'm Nguyễn Công Dũng. I'm fresher Front-end Web Developer.  🚀</div>
 ❤️ I love Programming, making application/software for Mobile, Web and Desktop. It does feel amazing to see myself improving. Hope to improve everything around me one day...  
 
@@ -14,9 +16,9 @@
 - 🌎 Find more about me on my website <a href="https://.com" target="_blank">.com</a>
 
 - ⚡ Fun fact: I use tabs over spaces
-
-<br/>
 -->
+<br/>
+
 ## Knowledge
 **Languages**
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/DungGramer/)](https://github.com/DungGramer/)
@@ -27,7 +29,9 @@
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/KhawajaAli246/)](https://github.com/DungGramer/)
 [![React Native](https://img.shields.io/badge/-ReactNative-black?style=flat-square&logo=react)](https://github.com/DungGramer/)
 
-## Connect with me  <br />  
+<br />
+
+## Connect with me 
 <div align="center">  
 <a href="https://www.facebook.com/dung.dev.gramer/" target="_blank"><img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" /></a>
 <a href="https://github.com/DungGramer" target="_blank"><img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" /></a>
@@ -37,12 +41,16 @@
 <a href="https://www.instagram.com/dung.gramer/" target="_blank"><img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" /></a>  
 </div>
   
+<br /> 
+  
 ## Stats
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=DungGramer&show_icons=true&count_private=true" align="center" /></div>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=dunggramer&&style=flat-square" align="center" />
 </div>
+
+<br />
 
 <!--
 **DungGramer/DungGramer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
