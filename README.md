@@ -44,10 +44,16 @@
 <br /> 
   
 ## Stats
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=DungGramer&show_icons=true&count_private=true" align="center" /></div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DungGramer&show_icons=true&count_private=true" align="left" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dunggramer&layout=compact&hide=html" align="right" />
+</div>
+
+<br /><br />  
+
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=dunggramer&&style=flat-square" align="center" />
+  <img src="https://komarev.com/ghpvc/?username=dunggramer&&style=flat-square" align="center" />
 </div>
 
 <br />
