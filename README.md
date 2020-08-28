@@ -54,7 +54,9 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=dunggramer&&style=flat-square" align="center" />
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=dunggramer&repo=simple8" align="left" />
 </div>
+
 
 <br />
 
