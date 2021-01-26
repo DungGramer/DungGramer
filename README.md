@@ -4,7 +4,7 @@
 <br />
  
 ### <div align="center">👍 I'm Nguyễn Công Dũng. I'm fresher Front-end Web Developer.  🚀</div>
-❤️ I love Programming, making application/software for Mobile, Web and Desktop. It does feel amazing to see myself improving. Hope to improve everything around me one day...  
+❤️ I love Programming, making application/software for Mobile, Web and Desktop. It does feel amazing to see myself improving. My unequivocal love for making things that change the world. That's why I like to make things that make a difference. 
 
 <!--
 - 🔭 I’m currently working on [](https://github.com/)
@@ -43,12 +43,25 @@
   
 <br /> 
   
-## Stats
-<p float="left" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DungGramer&show_icons=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dunggramer&layout=compact" />
-<!--  <img  src="https://github-readme-stats.vercel.app/api/wakatime?username=DungGramer" /> -->
- </p>
+  <img align="right" alt="GIF" src="image/coding.gif" width="408" height="318" />
+  
+  **Talking about Personal Stuffs:**
+
+- 👨🏻‍💻 I’m currently working on something cool;
+- 🚀 I’m currently learning Data Structures and Algorithms on [Hackerank](https://www.hackerrank.com/DungGramer);
+- 💬 Ask me about anything, I am happy to help;
+<!-- - 📝 I regulary write articles on [hashnode](https://dunggramer.hashnode.dev/); -->
+- 📫 How to reach me: dung.dev.gramer@gmail.com;
+- 📝 [Resume](https://www.linkedin.com/in/dunggramer/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAACITbA0BX2ZHFMBDJba18Lg3ai69v8a-1jY,1609056858934)/).
+
+</br>
+ 
+ 📈 **My GitHub Stats:**
+
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DungGramer&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DungGramer&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
 
 <!--
 <p align="center">
