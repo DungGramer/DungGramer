@@ -1,0 +1,268 @@
+/*------------------------------------*
+  #Global Style
+*------------------------------------*/
+
+:root {
+	--black: hsl(0, 0%, 27%);
+	--black-focus: hsl(0, 0%, 18%);
+	--black-soft: hsla(0, 0%, 27%, 0.75);
+	--blue: hsl(217, 89%, 61%);
+	--gray: rgb(112, 112, 112);
+}
+
+@page {
+	margin: 0;
+	padding: 0;
+	size: A4;
+}
+
+html {
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	color: var(--black);
+	font: 62.5%/1.618 "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI",
+		Roboto, Oxygen, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+}
+
+html,
+body,
+#root,
+h1,
+h2,
+h3,
+p {
+	margin: 0;
+	padding: 0;
+}
+
+ul {
+	margin: 0;
+	padding-left: 1.6rem;
+}
+ul li + li {
+	margin-top: 0.6rem;
+}
+
+*,
+*::before,
+*::after {
+	-webkit-box-sizing: inherit;
+	box-sizing: inherit;
+}
+
+a {
+	text-decoration: none;
+	color: var(--black);
+
+	transform: all 0.3s ease;
+	-webkit-transform: all 0.3s ease;
+	-moz-transform: all 0.3s ease;
+	-ms-transform: all 0.3s ease;
+	-o-transform: all 0.3s ease;
+}
+a:hover {
+	color: var(--black-soft);
+}
+a:focus {
+	color: var(--black-focus);
+}
+
+body {
+	background: #eee;
+	font-size: 1.6rem;
+}
+
+/*------------------------------------*
+  #Page
+*------------------------------------*/
+
+.A4 {
+	padding: 48px 55px;
+	-webkit-box-shadow: 0;
+	box-shadow: 0;
+	background-color: white;
+
+	box-shadow: 0 0 7px 0px rgb(187 187 187 / 50%);
+
+	border-radius: 7px;
+	-webkit-border-radius: 7px;
+	-moz-border-radius: 7px;
+	-ms-border-radius: 7px;
+	-o-border-radius: 7px;
+}
+
+@media print {
+	.A4 {
+		width: 210mm;
+		height: 297mm;
+		padding: 48px;
+	}
+}
+
+@media not print {
+	@media (max-width: 48em) {
+		.A4 {
+			padding: 15px;
+		}
+	}
+}
+
+/*------------------------------------*
+  #Flex Container
+*------------------------------------*/
+
+.d-flex {
+	display: table; /* IE < 10, Opera *Presto* Desktop */
+	display: -webkit-box; /* Safari 3.1 - 6, Chrome < 21 (2009 Spec), UCBrowser Android */
+	display: -moz-box; /* Firefox 2 - 27 (2009 Spec), UCMini Android */
+	display: -ms-flexbox; /* IE10 (2012 Syntax) */
+	display: -webkit-flex; /* Safari 6.1 - 8, Android < 4.4, BB < 10, Chrome 21 - 28 */
+	display: flex;
+}
+
+@media not print {
+	@media (max-width: 48em) {
+		.d-flex {
+			display: block;
+		}
+	}
+}
+
+.flex--1x3 {
+	-webkit-box-pack: justify;
+	-ms-flex-pack: justify;
+	justify-content: space-between;
+}
+
+.flex--1x3 > * {
+	-webkit-box-flex: 0.33;
+	-ms-flex: 0.33;
+	flex: 0.33;
+}
+
+@media not print {
+	@media (max-width: 48em) {
+		.flex--1x3 > .info + .info {
+			margin-top: 2rem;
+		}
+	}
+}
+
+/*------------------------------------*
+  #Container
+*------------------------------------*/
+
+/**
+ * Container
+ */
+
+@media not print {
+	@media (min-width: 62em) {
+		.container {
+			width: 960px;
+			margin: 20px auto;
+		}
+	}
+}
+
+/**
+ * Header Container
+ */
+
+.header__container {
+	-webkit-box-flex: 0.34;
+	-ms-flex: 0.34;
+	flex: 0.34;
+}
+
+.content__container {
+	-webkit-box-flex: 0.66;
+	-ms-flex: 0.66;
+	flex: 0.66;
+	font-style: normal;
+}
+
+@media not print {
+	@media (max-width: 48em) {
+		.header__container {
+			margin-bottom: 2rem;
+		}
+	}
+}
+
+.content__container:not(.flex--1x3) > .info + .info {
+	margin-top: 2rem;
+}
+
+.content__container > a {
+	padding-bottom: 8px;
+}
+
+.wrapper + .wrapper {
+	margin-top: 40px;
+}
+
+/*------------------------------------*
+  #Header Section
+*------------------------------------*/
+
+.heading {
+	font-weight: 600;
+	font-size: 2.2rem;
+	color: var(--black);
+	margin-bottom: 0.3rem;
+}
+
+.exp-level {
+	font-size: 1.6rem;
+	color: var(--blue);
+	letter-spacing: 0.08rem;
+	font-weight: normal;
+}
+
+/*------------------------------------*
+  #Info
+*------------------------------------*/
+
+.info header {
+	margin-bottom: 0.85rem;
+}
+
+.info header h3 {
+	font-weight: bold;
+	font-size: 1.8rem;
+}
+
+.info header h3 span {
+	font-weight: normal;
+	color: var(--gray);
+}
+
+.info header p {
+	font-size: 1.6rem;
+	color: var(--black-soft);
+}
+
+/*------------------------------------*
+  # Skill section
+*------------------------------------*/
+
+.skill__section ul {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+
+@media not print {
+	@media (min-width: 30em) and (max-width: 48em) {
+		.skill__section > .info {
+			display: -webkit-box;
+			display: -ms-flexbox;
+			display: flex;
+		}
+		.skill__section > .info header {
+			-ms-flex-preferred-size: 105px;
+			flex-basis: 105px;
+		}
+	}
+}
