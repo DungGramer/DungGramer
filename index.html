@@ -210,5 +210,45 @@
 			<!-- END Education Section -->
 		</div>
 		<!-- END A4 Page -->
+		<div class="download">
+			<ul class="download__wrapper">
+				<li
+					><a
+						class="pdf"
+						href="//raw.githubusercontent.com/DungGramer/DungGramer/master/NguyenCongDung-resume.pdf"
+						>Download (.pdf)</a
+					></li
+				>
+				<li><a class="print">Print</a></li>
+			</ul>
+		</div>
+		<!-- END Download Button -->
 	</body>
+	<script>
+		let btnDownload = document.querySelector(".download");
+		let btnPrint = document.querySelector(".print");
+		btnPrint.addEventListener("click", function () {
+			window.print();
+		});
+		window.addEventListener("click", function () {
+			btnDownload.classList.remove("open");
+		});
+		btnDownload.addEventListener("click", function () {
+			event.stopPropagation();
+			this.classList.toggle("open");
+		});
+
+		// Scroll Action
+		var prevScrollpos = window.pageYOffset;
+		window.onscroll = function () {
+			var currentScrollPos = window.pageYOffset;
+			if (prevScrollpos < currentScrollPos) {
+				btnDownload.style.bottom = "10px";
+			} else {
+				btnDownload.classList.remove("open");
+				btnDownload.style.bottom = "-80px";
+			}
+			prevScrollpos = currentScrollPos;
+		};
+	</script>
 </html>
