@@ -55,6 +55,10 @@ Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=d
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DungGramer&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
+<p>
+  <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=DungGramer" />
+</p>
+
 <!--
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dunggramer&&style=flat-square" align="center" />
