@@ -44,7 +44,7 @@ Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=d
 - 💬 Ask me about anything, I am happy to help;
 <!-- - 📝 I regulary write articles on [hashnode](https://dunggramer.hashnode.dev/); -->
 - 📫 How to reach me: dung.dev.gramer@gmail.com;
-- 📝 [Resume](https://www.linkedin.com/in/dunggramer/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAACITbA0BX2ZHFMBDJba18Lg3ai69v8a-1jY,1609056858934)/).
+- 📝 [Resume](https://dunggramer.github.io/DungGramer/).
 
 </br>
  
