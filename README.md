@@ -59,6 +59,9 @@ Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=d
   <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=DungGramer" />
 </p>
 
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 <!--
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dunggramer&&style=flat-square" align="center" />
