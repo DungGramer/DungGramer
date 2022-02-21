@@ -20,7 +20,6 @@
 
 **📚 Framework**  &nbsp; 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white)
@@ -53,8 +52,8 @@
 <br /> 
   
 <img align="right" alt="GIF" src="image/coding.gif" width="408" height="318" />
-  
-  **Talking about Personal Stuffs:**
+
+**Talking about Personal Stuffs:**
 
 - 👨🏻‍💻 I’m currently working on something cool;
 - 🚀 I’m currently learning Data Structures and Algorithms on [Hackerank](https://www.hackerrank.com/DungGramer);
@@ -63,10 +62,12 @@
 - 📫 How to reach me: dung.dev.gramer@gmail.com;
 - 📝 [Resume](https://dunggramer.github.io/DungGramer/).
 
-</br>
-
+</br></br>
+  
 ## 🏆 My GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=DungGramer&theme=flat&no-frame=false&no-bg=true&margin-w=4)
+<div align="center"> 
+	<img src="https://github-profile-trophy.vercel.app/?username=DungGramer&theme=flat&no-frame=false&no-bg=true&margin-w=5" />
+</div>
  
 ## 📊 My GitHub Stats
 
