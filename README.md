@@ -37,6 +37,7 @@
 
 ## 📦 NPM Packages Published by Me
 ![npm](https://img.shields.io/npm/dt/type-detail?label=type-detail)
+![npm](https://img.shields.io/npm/dt/constancy?label=constancy)
 
 
 ## 📞 Connect with me 
