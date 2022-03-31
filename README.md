@@ -83,9 +83,9 @@
 
 ## 📋 Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1046](https://github.com/EddieHubCommunity/awesome-github-profiles/pull/1046) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-2. ❗️ Opened issue [#1045](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/1045) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-3. 💪 Opened PR [#14](https://github.com/vuejs-vn/docs/pull/14) in [vuejs-vn/docs](https://github.com/vuejs-vn/docs)
+1. ❗️ Opened issue [#1](https://github.com/ed-roh/algorithms/issues/1) in [ed-roh/algorithms](https://github.com/ed-roh/algorithms)
+2. 💪 Opened PR [#1046](https://github.com/EddieHubCommunity/awesome-github-profiles/pull/1046) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+3. ❗️ Opened issue [#1045](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/1045) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
 <!--END_SECTION:activity-->
 
 <!--
