@@ -1,9 +1,9 @@
 <div id="top"></div>
 
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Chào bạn <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=dunggramer.dunggramer)  
+### Thật vui khi thấy bạn ở đây! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=dunggramer.dunggramer)  
 [![Cover](https://raw.githubusercontent.com/DungGramer/DungGramer/master/icon/cover-2.png)](https://github.com/DungGramer/)    
 
 
@@ -12,16 +12,16 @@
 
 <table align="right">
  <tr><td><a href="https://github.com/DungGramer/DungGramer/blob/master/README.md">:us: English</a></td></tr>
- <tr><td><a href="https://github.com/DungGramer/DungGramer/blob/master/README-vn.md">:vietnam: Tiếng việt</a></td></tr>
+ <tr><td><a href="https://github.com/Carol42/Carol42/blob/main/README-pt-br.md">:vietnam: Tiếng việt</a></td></tr>
 </table>
  
-### <div align="center">👍 I'm Nguyễn Công Dũng. I'm Middle Front-end Web Developer.  🚀</div>
-❤️ I love Programming, making application/software for Mobile, Web and Desktop. It does feel amazing to see myself improving. My unequivocal love for making things that change the world. That's why I like to make things that make a difference. 
+### <div align="center">👍 Mình là Nguyễn Công Dũng. Hiện mình đang là Middle Front-end Web Developer.  🚀</div>
+❤️ Tôi yêu thích Lập trình, làm ứng dụng / phần mềm cho Di động, Web và cho Máy tính. Tôi cảm thấy tuyệt vời khi thấy bản thân mình tiến bộ qua từng ngày. Tôi muốn tạo ra những thứ thay đổi thế giới, dù chỉ là rất nhỏ. Đó là lý do tại sao tôi thích tạo ra những thứ khác biệt, đôi khi là đơn giản.  
 
 <br/>
 
-## ⚙️ Technologies
-**✍🏼 Languages**  &nbsp; 
+## ⚙️ Công nghệ sử dụng
+**✍🏼 Ngôn ngữ**  &nbsp; 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 	![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -35,7 +35,7 @@
 ![Stylus](https://img.shields.io/badge/stylus-%23ff6347.svg?style=for-the-badge&logo=stylus&logoColor=white)
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
 
-**🔨 Build Tool** &nbsp; 
+**🔨 Công cụ Build** &nbsp; 
 ![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
@@ -43,37 +43,37 @@
 
 <br />
 
-## 📦 NPM Packages Published by Me
+## 📦 Gói NPM Packages của mình
 [![npm](https://img.shields.io/npm/dt/type-detail?label=type-detail)](https://www.npmjs.com/package/type-detail)
 [![npm](https://img.shields.io/npm/dt/constancy?label=constancy)](https://www.npmjs.com/package/constancy)
 
-## My Coding Challenge Rank
+## Thứ hạng Coding Challenge của mình
 [![LeetCode user DungGramer](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FDungGramer&logo=leetcode&logoColor=yellow)](https://leetcode.com/DungGramer/)
 [![Codewars user DungGramer](https://www.codewars.com/users/DungGramer/badges/micro)](https://www.codewars.com/users/DungGramer/)
 
 
-## 📞 Connect with me 
+## 📞 Liên hệ với mình 
 <div align="center">  
 <a href="https://dunggramer.github.io/DungGramer/">
-    <img alt="link to my resume" src="https://img.shields.io/static/v1?label&message=Resume/CV&color=E0234E&style=for-the-badge&logo=tmux&logoColor=whitesmoke" />
+    <img alt="Đường dẫn đến resume của mình" src="https://img.shields.io/static/v1?label&message=Resume/CV&color=E0234E&style=for-the-badge&logo=tmux&logoColor=whitesmoke" />
 </a>
 <a href="https://codepen.io/DungGramer">
-    <img alt="link to my CodePen" src="https://img.shields.io/static/v1?label&message=/DungGramer&color=000000&style=for-the-badge&logo=codepen" />
+    <img alt="Đường dẫn đến CodePen của mình" src="https://img.shields.io/static/v1?label&message=/DungGramer&color=000000&style=for-the-badge&logo=codepen" />
 </a>
 <a href="https://linkedin.com/in/DungGramer">
-    <img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=/DungGramer&color=0A66C2&style=for-the-badge&logo=linkedin" />
+    <img alt="Đường dẫn đến LinkedIn của mình" src="https://img.shields.io/static/v1?label&message=/DungGramer&color=0A66C2&style=for-the-badge&logo=linkedin" />
 </a>
 <a href="https://t.me/DungGramer">
-    <img alt="link to my Telegram" src="https://img.shields.io/static/v1?label&message=@DungGramer&color=26A5E4&style=for-the-badge&logo=telegram&logoColor=whitesmoke" />
+    <img alt="Đường dẫn đến Telegram của mình" src="https://img.shields.io/static/v1?label&message=@DungGramer&color=26A5E4&style=for-the-badge&logo=telegram&logoColor=whitesmoke" />
 </a>
 <a href="https://www.facebook.com/dung.dev.gramer/">
-    <img alt="link to my Facebook" src="https://img.shields.io/static/v1?label&message=dung.dev.gramer&color=2d87fb&style=for-the-badge&logo=facebook&logoColor=white" />
+    <img alt="Đường dẫn đến Facebook của mình" src="https://img.shields.io/static/v1?label&message=dung.dev.gramer&color=2d87fb&style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 <a href="https://www.instagram.com/DungGramer/">
-    <img alt="link to my Instagram" src="https://img.shields.io/static/v1?label&message=@DungGramer&color=7E3ACE&style=for-the-badge&logo=instagram&logoColor=whitesmoke" />
+    <img alt="Đường dẫn đến Instagram của mình" src="https://img.shields.io/static/v1?label&message=@DungGramer&color=7E3ACE&style=for-the-badge&logo=instagram&logoColor=whitesmoke" />
 </a>
 <a href="mailto:dung.dev.gramer@gmail.com">
-    <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=dung.dev.gramer@gmail.com&color=whitesmoke&style=for-the-badge&logo=gmail" />
+    <img alt="Đường dẫn đến email của mình" src="https://img.shields.io/static/v1?label&message=dung.dev.gramer@gmail.com&color=whitesmoke&style=for-the-badge&logo=gmail" />
 </a>
 </div>
   
@@ -81,11 +81,11 @@
   
 <img align="right" alt="GIF" src="image/coding.gif" width="408" height="318" />
 
-**Talking about Personal Stuffs:**
+**Nói vài thứ về mình:**
 
-- 👨🏻‍💻 I’m currently working on something cool;
-- 🚀 I’m currently learning Data Structures and Algorithms on [Hackerank](https://www.hackerrank.com/DungGramer);
-- 💬 Ask me about anything, I am happy to help;
+- 👨🏻‍💻 Tôi hiện đang làm việc gì đó thú vị;
+- 🚀 Tôi hiện đang học về Cấu trúc dữ liệu và thuật toán trên [Hackerank](https://www.hackerrank.com/DungGramer);
+- 💬 Hỏi tôi về bất cứ điều gì, tôi rất sẵn lòng giúp đỡ;
 <!-- - 📝 I regulary write articles on [hashnode](https://dunggramer.hashnode.dev/); -->
 </br></br>
   
@@ -93,22 +93,22 @@
 ## 📊 My GitHub Stats
 
 <details>
-  <summary>General Stats</summary>
+  <summary>Số liệu thống kê chung</summary>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DungGramer&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 </details>
 
 <details>
-    <summary>Top Languages</summary>
+    <summary>Ngôn ngữ hàng đầu được sử dụng</summary>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DungGramer&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&tab=languages" />
 </details>
 
 <details>
-  <summary>Graphs</summary>
+  <summary>Biểu đồ</summary>
   <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=DungGramer" />
 </details>
 
 <details>
-  <summary>Recent Activity</summary>
+  <summary>Hoạt động gần đây</summary>
 
 <!--START_SECTION:activity-->
 1. ❗️ Opened issue [#1](https://github.com/ed-roh/algorithms/issues/1) in [ed-roh/algorithms](https://github.com/ed-roh/algorithms)
@@ -119,11 +119,11 @@
 </details>
 
 <details>
-  <summary>Achievements</summary> 
+  <summary>Thành tựu</summary> 
   <img src="https://github-profile-trophy.vercel.app/?username=DungGramer&theme=darkhub&no-frame=true&column=7"" />
 </details>
 
 <img alt="github contribution snake animation" src="https://github.com/DungGramer/DungGramer/blob/output/github-contribution-grid-snake.svg">
 
 <br><br>
-<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=0d2a52&style=for-the-badge&logo" alt="back to top" /></a></p>
+<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=Quay+về+đầu&color=0d2a52&style=for-the-badge&logo" alt="quay về đầu" /></a></p>
