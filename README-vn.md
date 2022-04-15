@@ -126,4 +126,4 @@
 <img alt="github contribution snake animation" src="https://github.com/DungGramer/DungGramer/blob/output/github-contribution-grid-snake.svg">
 
 <br><br>
-<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=Quay+về+đầu&color=0d2a52&style=for-the-badge&logo" alt="quay về đầu" /></a></p>
+<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=Quay+v%E1%BB%81+%C4%91%E1%BA%A7u&color=0d2a52&style=for-the-badge&logo" alt="quay về đầu" /></a></p>
