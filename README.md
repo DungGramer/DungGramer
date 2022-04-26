@@ -99,7 +99,10 @@
 
 <details>
     <summary>Top Languages</summary>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DungGramer&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&tab=languages" />
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=DungGramer&theme=midnight-purple&hide_border=true&layout=compact&custom_title=Most+Used+Languages*&langs_count=10" alt="most used languages" />
+    </a>
+    <p><b>*Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
 </details>
 
 <details>
