@@ -99,7 +99,10 @@
 
 <details>
     <summary>Ngôn ngữ hàng đầu được sử dụng</summary>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DungGramer&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&tab=languages" />
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=DungGramer&theme=midnight-purple&hide_border=true&layout=compact&custom_title=Most+Used+Languages*&langs_count=10" alt="most used languages" />
+    </a>
+    <p><b>*Lưu ý:</b> Các ngôn ngữ hàng đầu chỉ là thước đo của các ngôn ngữ của dự án mà tôi công khai và không phản ánh kinh nghiệm hoặc trình độ, kỹ năng của tôi.</p>
 </details>
 
 <details>
