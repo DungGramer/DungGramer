@@ -114,9 +114,9 @@
   <summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/ed-roh/algorithms/issues/1) in [ed-roh/algorithms](https://github.com/ed-roh/algorithms)
-2. 💪 Opened PR [#1046](https://github.com/EddieHubCommunity/awesome-github-profiles/pull/1046) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-3. ❗️ Opened issue [#1045](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/1045) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+1. 🎉 Merged PR [#1](https://github.com/DungGramer/auto-toc/pull/1) in [DungGramer/auto-toc](https://github.com/DungGramer/auto-toc)
+2. 💪 Opened PR [#1](https://github.com/DungGramer/auto-toc/pull/1) in [DungGramer/auto-toc](https://github.com/DungGramer/auto-toc)
+3. ❗️ Opened issue [#1](https://github.com/ed-roh/algorithms/issues/1) in [ed-roh/algorithms](https://github.com/ed-roh/algorithms)
 <!--END_SECTION:activity-->
 
 </details>
