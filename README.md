@@ -115,9 +115,9 @@
   <summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#11](https://github.com/DungGramer/simple-design-system/pull/11) in [DungGramer/simple-design-system](https://github.com/DungGramer/simple-design-system)
-2. 🎉 Merged PR [#10](https://github.com/DungGramer/simple-design-system/pull/10) in [DungGramer/simple-design-system](https://github.com/DungGramer/simple-design-system)
-3. 💪 Opened PR [#10](https://github.com/DungGramer/simple-design-system/pull/10) in [DungGramer/simple-design-system](https://github.com/DungGramer/simple-design-system)
+1. ❗️ Closed issue [#1](https://github.com/DungGramer/simple-design-system/issues/1) in [DungGramer/simple-design-system](https://github.com/DungGramer/simple-design-system)
+2. 🗣 Commented on [#1](https://github.com/DungGramer/simple-design-system/issues/1) in [DungGramer/simple-design-system](https://github.com/DungGramer/simple-design-system)
+3. ❗️ Closed issue [#1](https://github.com/DungGramer/simple-design-system/issues/1) in [DungGramer/simple-design-system](https://github.com/DungGramer/simple-design-system)
 <!--END_SECTION:activity-->
 
 </details>
