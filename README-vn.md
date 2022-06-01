@@ -1,6 +1,6 @@
 <div id="top"></div>
 
-### Chào bạn <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Chào bạn <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 
 
 ### Thật vui khi thấy bạn ở đây! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=dunggramer.dunggramer)  
