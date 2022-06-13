@@ -13,12 +13,34 @@
   },
   "license": "MIT",
   "devDependencies": {
+    "autoprefixer": "^10.4.7",
+    "eslint": "^7.32.0 || ^8.2.0",
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-plugin-import": "^2.25.3",
+    "eslint-plugin-jsx-a11y": "^6.5.1",
+    "eslint-plugin-react": "^7.28.0",
+    "eslint-plugin-react-hooks": "^4.3.0",
     "gh-pages": "^4.0.0",
+    "postcss": "^8.4.14",
+    "postcss-flexbugs-fixes": "^5.0.2",
+    "postcss-loader": "^7.0.0",
+    "postcss-normalize": "^10.0.1",
+    "postcss-scss": "^4.0.4",
     "sass": "^1.52.3",
+    "stylelint": "^14.9.1",
+    "stylelint-config-recommended-scss": "^6.0.0",
+    "stylelint-config-standard": "^26.0.0",
+    "stylelint-order": "^5.0.0",
+    "stylelint-scss": "^4.2.0",
     "vite": "^2.9.9",
     "vite-plugin-solid": "^2.2.6"
   },
   "dependencies": {
     "solid-js": "^1.4.2"
-  }
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not ie < 11"
+  ]
 }
