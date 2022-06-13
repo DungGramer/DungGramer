@@ -80,7 +80,7 @@
   
 <br /> 
   
-<img align="right" alt="GIF" src="image/coding.gif" width="408" height="318" />
+<img align="right" alt="GIF" src="public/image/coding.gif" width="408" height="318" />
 
 **Nói vài thứ về mình:**
 
