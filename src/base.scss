@@ -1,0 +1,70 @@
+:root {
+	--black: hsl(0, 0%, 27%);
+	--black-focus: hsl(0, 0%, 18%);
+	--black-soft: hsla(0, 0%, 27%, 0.75);
+	--blue: hsl(217, 89%, 61%);
+	--blue-active: hsl(217, 89%, 40%);
+	--gray: rgb(112, 112, 112);
+}
+
+@page {
+	margin: 0;
+	padding: 0;
+	size: A4;
+}
+
+html {
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	color: var(--black);
+	font: 62.5%/1.618 "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI",
+		Roboto, Oxygen, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+}
+
+html,
+body,
+#root,
+h1,
+h2,
+h3,
+p {
+	margin: 0;
+	padding: 0;
+}
+
+ul {
+	margin: 0;
+	padding-left: 1.6rem;
+}
+ul li + li {
+	margin-top: 0.6rem;
+}
+
+*,
+*::before,
+*::after {
+	-webkit-box-sizing: inherit;
+	box-sizing: inherit;
+}
+
+a {
+	text-decoration: none;
+	color: var(--black);
+
+	transform: all 0.3s ease;
+	-webkit-transform: all 0.3s ease;
+	-moz-transform: all 0.3s ease;
+	-ms-transform: all 0.3s ease;
+	-o-transform: all 0.3s ease;
+}
+a:hover {
+	color: var(--black-soft);
+}
+a:focus {
+	color: var(--black-focus);
+}
+
+body {
+	background: #eee;
+	font-size: 1.6rem;
+}
