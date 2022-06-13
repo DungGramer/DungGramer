@@ -7,14 +7,9 @@ export default defineConfig({
   build: {
     target: 'esnext',
     polyfillDynamicImport: false,
-    outDir: './dist',
+    outDir: '../dist',
     emptyOutDir: true,
 
-    rollupOptions: {
-      input: {
-        app: 'public/index.html'
-      }
-    }
   },
 
   server: {

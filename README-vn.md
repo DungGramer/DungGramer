@@ -4,7 +4,7 @@
 
 
 ### Thật vui khi thấy bạn ở đây! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=dunggramer.dunggramer)  
-[![Cover](https://raw.githubusercontent.com/DungGramer/DungGramer/master/icon/cover-2.png)](https://github.com/DungGramer/)    
+[![Cover](https://raw.githubusercontent.com/DungGramer/DungGramer/master/public/image/cover-readme.png)](https://github.com/DungGramer/)    
 
 
 
