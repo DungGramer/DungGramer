@@ -8,7 +8,6 @@ on:
     secrets:
       METRICS_TOKEN:
         required: true
-  push: {branches: ["master", "main"]}
 jobs:
   build:
     runs-on: ubuntu-latest
