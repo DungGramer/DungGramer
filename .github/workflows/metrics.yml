@@ -129,26 +129,6 @@ jobs:
           plugin_starlists_limit_repositories: 2
           plugin_starlists_shuffle_repositories: yes
 
-  github-skyline:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: "public/metrics/github-skyline.svg"
-          token: NOT_NEEDED
-
-          # Options
-          user: DungGramer
-          template: classic
-          base: ""
-          config_timezone: Asia/Saigon
-          plugin_skyline: yes
-          plugin_skyline_frames: 60
-          plugin_skyline_quality: 0.5
-          plugin_skyline_year: current-year
-
   stack-overflow:
     runs-on: ubuntu-latest
     permissions:
@@ -189,38 +169,3 @@ jobs:
           plugin_notable: yes
           plugin_notable_from: organization
           plugin_notable_types: commit
-
-  lines-changed:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: "public/metrics/lines-changed.svg"
-          token: ${{ secrets.METRICS_TOKEN }}
-
-          # Options
-          user: DungGramer
-          template: classic
-          base: ""
-          config_timezone: Asia/Saigon
-          plugin_lines: yes
-
-  calendar:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: "public/metrics/calendar.svg"
-          token: ${{ secrets.METRICS_TOKEN }}
-
-          # Options
-          user: DungGramer
-          template: classic
-          base: ""
-          config_timezone: Asia/Saigon
-          plugin_calendar: yes
-          plugin_calendar_limit: 1
