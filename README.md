@@ -124,7 +124,7 @@
 
 <details>
   <summary>Achievements</summary> 
-  <img src="https://metrics.lecoq.io/DungGramer?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&base.indepth=false&base.hireable=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=7&config.timezone=Asia%2FSaigon" />
+  <img src="https://github.com/DungGramer/DungGramer/blob/master/public/metrics/achievements.svg" />
 </details>
 
 <img alt="github contribution snake animation" src="https://github.com/DungGramer/DungGramer/blob/metrics/github-contribution-grid-snake.svg">
@@ -132,6 +132,6 @@
 <br><br>
 
 ### 🙏 Give a thanks to the following people
-<img alt="Follower" src="https://metrics.lecoq.io/DungGramer?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&people=1&base.indepth=false&base.hireable=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers&people.shuffle=false&config.timezone=Asia%2FSaigon">
+<img alt="Follower" src="https://github.com/DungGramer/DungGramer/blob/master/public/metrics/followers.svg">
 
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=0d2a52&style=for-the-badge&logo" alt="back to top" /></a></p>
