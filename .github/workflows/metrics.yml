@@ -19,7 +19,7 @@ jobs:
         run: git checkout metrics
 
       - name: Add achievements
-      - uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@latest
         with:
           filename: metrics.achievements.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -37,7 +37,7 @@ jobs:
 
 
       - name: Add followers
-      - uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@latest
         with:
           filename: metrics.followers.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -53,7 +53,7 @@ jobs:
           plugin_people_types: followers
 
       - name: Add habit
-      - uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@latest
         with:
           filename: metrics.habit.svg
           token: ${{ secrets.METRICS_TOKEN }}
