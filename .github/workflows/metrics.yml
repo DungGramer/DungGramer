@@ -2,6 +2,13 @@ name: Metrics
 on:
   # Schedule updates (each hour)
   schedule: [{cron: "0 * * * *"}]
+  # Lines below let you run workflow manually and on each commit
+  workflow_dispatch:
+  workflow_call:
+    secrets:
+      METRICS_TOKEN:
+        required: true
+  push: {branches: ["master", "main"]}
 jobs:
   build:
     runs-on: ubuntu-latest
