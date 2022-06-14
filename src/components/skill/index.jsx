@@ -1,11 +1,11 @@
-const Skill = () => (
-  <section className="d-flex wrapper">
-    <aside className="header__container">
-      <h2 className="heading">Skills</h2>
+const Skill = (
+  <section class="d-flex wrapper">
+    <aside class="header__container">
+      <h2 class="heading">Skills</h2>
     </aside>
 
-    <section className="content__container skill__section d-flex flex--1x3">
-      <article className="info">
+    <section class="content__container skill__section d-flex flex--1x3">
+      <article class="info">
         <header>
           <h3>Coding</h3>
         </header>
@@ -20,7 +20,7 @@ const Skill = () => (
         </main>
       </article>
 
-      <article className="info">
+      <article class="info">
         <header>
           <h3>Other</h3>
         </header>
@@ -35,7 +35,7 @@ const Skill = () => (
         </main>
       </article>
 
-      <article className="info">
+      <article class="info">
         <header>
           <h3>Software</h3>
         </header>

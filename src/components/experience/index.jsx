@@ -1,17 +1,17 @@
-const Experience = () => (
-  <section className="d-flex wrapper">
-    <aside className="header__container">
-      <h2 className="heading">Experience</h2>
+const Experience = (
+  <section class="d-flex wrapper">
+    <aside class="header__container">
+      <h2 class="heading">Experience</h2>
     </aside>
 
-    <section className="content__container">
-      <article className="info">
+    <section class="content__container">
+      <article class="info">
         <header>
           <h3>
             Front-end,
             <span>TTC Solution - Unitel Project</span>
           </h3>
-          <p className="sub-header">December 2020 - February 2021</p>
+          <p class="sub-header">December 2020 - February 2021</p>
         </header>
         <main>
           <ul>
@@ -29,7 +29,7 @@ const Experience = () => (
         </main>
       </article>
 
-      <article className="info">
+      <article class="info">
         <header>
           <h3>
             IT Support Technician,
