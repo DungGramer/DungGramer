@@ -80,7 +80,7 @@
   
 <br /> 
   
-<img align="right" alt="GIF" src="image/coding.gif" width="408" height="318" />
+<img align="right" alt="GIF" src="public/image/coding.gif" width="408" height="318" />
 
 **Talking about Personal Stuffs:**
 
@@ -124,10 +124,14 @@
 
 <details>
   <summary>Achievements</summary> 
-  <img src="https://github-profile-trophy.vercel.app/?username=DungGramer&theme=darkhub&no-frame=true&column=7"" />
+  <img src="https://github.com/DungGramer/DungGramer/blob/master/public/metrics/achievements.svg" />
 </details>
 
-<img alt="github contribution snake animation" src="https://github.com/DungGramer/DungGramer/blob/output/github-contribution-grid-snake.svg">
+<img alt="github contribution snake animation" src="https://github.com/DungGramer/DungGramer/blob/metrics/github-contribution-grid-snake.svg">
 
 <br><br>
+
+### 🙏 Give a thanks to the following people
+<img alt="Follower" src="https://github.com/DungGramer/DungGramer/blob/master/public/metrics/followers.svg">
+
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=0d2a52&style=for-the-badge&logo" alt="back to top" /></a></p>
