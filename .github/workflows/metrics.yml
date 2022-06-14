@@ -3,7 +3,7 @@ on:
   # Schedule updates (each hour)
   schedule: [{cron: "0 * * * *"}]
   # Lines below let you run workflow manually and on each commit
-  workflow_dispatch: [on_push, on_pull_request]
+  workflow_dispatch:
   workflow_call:
     secrets:
       METRICS_TOKEN:
