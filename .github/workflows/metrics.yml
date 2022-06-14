@@ -13,7 +13,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: "public/metrics/metrics.achievements.svg"
+          filename: "public/metrics/achievements.svg"
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
@@ -34,7 +34,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: "public/metrics/metrics.followers.svg"
+          filename: "public/metrics/followers.svg"
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
@@ -54,7 +54,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: "public/metrics/metrics.habit.svg"
+          filename: "public/metrics/habit.svg"
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
