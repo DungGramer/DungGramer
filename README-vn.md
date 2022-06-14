@@ -124,10 +124,13 @@
 
 <details>
   <summary>Thành tựu</summary> 
-  <img src="https://github-profile-trophy.vercel.app/?username=DungGramer&theme=darkhub&no-frame=true&column=7"" />
+  <img src="https://metrics.lecoq.io/DungGramer?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&base.indepth=false&base.hireable=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=7&config.timezone=Asia%2FSaigon" />
 </details>
 
 <img alt="github contribution snake animation" src="https://github.com/DungGramer/DungGramer/blob/output/github-contribution-grid-snake.svg">
+
+### 🙏 Xin được gửi lời cảm ơn tới những người đã theo dõi tôi
+<img alt="Follower" src="https://metrics.lecoq.io/DungGramer?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&people=1&base.indepth=false&base.hireable=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers&people.shuffle=false&config.timezone=Asia%2FSaigon">
 
 <br><br>
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=Quay+v%E1%BB%81+%C4%91%E1%BA%A7u&color=0d2a52&style=for-the-badge&logo" alt="quay về đầu" /></a></p>
