@@ -21,5 +21,7 @@ module.exports = {
         unnamedComponents: 'arrow-function',
       },
     ],
+    'react/no-unknown-property': [0, { ignore: ['className'] }],
+    'import/no-extraneous-dependencies': 'off',
   },
 };

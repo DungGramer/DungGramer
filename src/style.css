@@ -6,7 +6,6 @@
   padding: 48px 55px;
   border-radius: 7px;
   background-color: white;
-  box-shadow: 0;
   box-shadow: 0 0 7px 0 rgb(187 187 187 / 50%);
 }
 
@@ -31,10 +30,7 @@
 *------------------------------------ */
 
 .d-flex {
-  display: table; /* IE < 10, Opera *Presto* Desktop */
-  display: box; /* Safari 3.1 - 6, Chrome < 21 (2009 Spec), UCBrowser Android */ /* Firefox 2 - 27 (2009 Spec), UCMini Android */
-  display: flexbox; /* IE10 (2012 Syntax) */
-  display: flex; /* Safari 6.1 - 8, Android < 4.4, BB < 10, Chrome 21 - 28 */
+  display: flex;
 }
 
 @media not print {
@@ -243,10 +239,12 @@
   color: var(--black);
 }
 
-.download__wrapper a {
+.download__wrapper a,
+.download__wrapper p {
   display: block;
   padding: 8px 16px;
   white-space: nowrap;
+  color: var(--black);
 }
 
 .print::before {

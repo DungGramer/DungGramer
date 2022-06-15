@@ -6,7 +6,7 @@ import Header from './components/header';
 import Skill from './components/skill';
 
 const App = () => (
-  <main className="A4 container">
+  <main class="A4 container">
     <Header />
     <Experience />
     <Skill />
