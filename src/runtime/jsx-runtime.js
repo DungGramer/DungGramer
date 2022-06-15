@@ -1,11 +1,11 @@
-const flatten = (arr) =>
-  arr.reduce(
-    (flat, toFlatten) =>
-      flat.concat(Array.isArray(toFlatten) ? flatten(toFlatten) : toFlatten),
-    []
-  );
+const flatten = (arr) => {
+  return arr.reduce((flat, toFlatten) => {
+    return flat.concat(
+      Array.isArray(toFlatten) ? flatten(toFlatten) : toFlatten
+    );
+  }, []);
+};
 
-// eslint-disable-next-line no-multi-assign
 exports.jsxs = exports.jsx = (tag, { ref, children, ...props } = {}) => {
   if (typeof tag === 'string') {
     const element = document.createElement(tag);
@@ -22,12 +22,17 @@ exports.jsxs = exports.jsx = (tag, { ref, children, ...props } = {}) => {
 
     if (children) {
       children = Array.isArray(children) ? flatten(children) : [children];
-      console.log(`📕 children - 25:jsx-runtime.js \n`, children);
 
       children.forEach((child) => {
         if (child) {
-          if (typeof child === 'string') {
-            child = document.createTextNode(child);
+          switch (typeof child) {
+            case 'string':
+            case 'number':
+              child = document.createTextNode(child);
+              break;
+            case 'function':
+              child = child();
+              break;
           }
           element.appendChild(child);
         }
@@ -43,11 +48,11 @@ exports.jsxs = exports.jsx = (tag, { ref, children, ...props } = {}) => {
     }
 
     return element;
-  }
-  if (typeof tag === 'function') {
+  } else if (typeof tag === 'function') {
     return tag({ ref, children, ...props });
+  } else {
+    console.error('Invalid tag type', tag);
   }
-  console.error('Invalid tag type', tag);
 };
 
 exports.Fragment = ({ children } = {}) => {
@@ -58,8 +63,14 @@ exports.Fragment = ({ children } = {}) => {
 
     children.forEach((child) => {
       if (child) {
-        if (typeof child === 'string') {
-          child = document.createTextNode(child);
+        switch (typeof child) {
+          case 'string':
+          case 'number':
+            child = document.createTextNode(child);
+            break;
+          case 'function':
+            child = child();
+            break;
         }
         element.appendChild(child);
       }

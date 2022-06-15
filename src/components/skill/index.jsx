@@ -1,4 +1,4 @@
-const Skill = (
+const Skill = () => (
   <section class="d-flex wrapper">
     <aside class="header__container">
       <h2 class="heading">Skills</h2>

@@ -5,8 +5,7 @@ import Experience from './components/experience';
 import Header from './components/header';
 import Skill from './components/skill';
 
-
-const App = (
+const App = () => (
   <main class="A4 container">
     <Header />
     <Experience />

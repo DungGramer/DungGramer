@@ -1,4 +1,4 @@
-const Experience = (
+const Experience = () => (
   <section class="d-flex wrapper">
     <aside class="header__container">
       <h2 class="heading">Experience</h2>

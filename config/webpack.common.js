@@ -2,12 +2,7 @@ const { paths, postCSS } = require('./utils');
 
 module.exports = {
   entry: paths.indexJS,
-  mode: 'development',
   target: ['es5', 'web'],
-  output: {
-    path: paths.public,
-    filename: 'bundle.js',
-  },
   module: {
     rules: [
       {
@@ -41,11 +36,6 @@ module.exports = {
     extensions: ['*', '.js', '.jsx', '.scss'],
     alias: {
       '~': paths.root,
-    },
-  },
-  devServer: {
-    static: {
-      directory: paths.public,
     },
   },
 };

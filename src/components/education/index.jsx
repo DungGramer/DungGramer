@@ -1,4 +1,4 @@
-const Education = (
+const Education = () => (
   <section class="d-flex wrapper">
     <aside class="header__container">
       <h2 class="heading">Education</h2>
