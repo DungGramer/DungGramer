@@ -115,9 +115,9 @@
   <summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/DungGramer/DungGramer/pull/1) in [DungGramer/DungGramer](https://github.com/DungGramer/DungGramer)
-2. 💪 Opened PR [#1](https://github.com/DungGramer/DungGramer/pull/1) in [DungGramer/DungGramer](https://github.com/DungGramer/DungGramer)
-3. 🎉 Merged PR [#11](https://github.com/DungGramer/simple-design-system/pull/11) in [DungGramer/simple-design-system](https://github.com/DungGramer/simple-design-system)
+1. 🎉 Merged PR [#1](https://github.com/DungGramer/jsx-lite/pull/1) in [DungGramer/jsx-lite](https://github.com/DungGramer/jsx-lite)
+2. 💪 Opened PR [#1](https://github.com/DungGramer/jsx-lite/pull/1) in [DungGramer/jsx-lite](https://github.com/DungGramer/jsx-lite)
+3. 🎉 Merged PR [#1](https://github.com/DungGramer/DungGramer/pull/1) in [DungGramer/DungGramer](https://github.com/DungGramer/DungGramer)
 <!--END_SECTION:activity-->
 
 </details>
