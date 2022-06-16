@@ -1,16 +1,27 @@
+function transformElement(element) {
+  if (!element) return;
+
+  switch (typeof element) {
+    case 'string':
+      return document.createTextNode(element);
+    case 'function':
+      return element();
+    default:
+      return element;
+  }
+}
+
 const render = (element, selector) => {
-  if (!element) {
+  if (!element) return;
+
+  const transformedElement = transformElement(element);
+
+  if (!selector) {
+    document.body.appendChild(transformedElement);
     return;
   }
 
-  if (!selector) {
-    document.body.appendChild(element);
-  } else {
-    if (typeof element === 'string') {
-      element = document.createTextNode(element);
-    }
-    selector.appendChild(element);
-  }
+  selector.appendChild(transformedElement);
 };
 
 export default render;
