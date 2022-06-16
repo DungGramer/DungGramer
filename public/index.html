@@ -45,34 +45,5 @@
 <body>
   <div id="root"></div>
 </body>
-<script>
-  document.addEventListener('DOMContentLoaded', () => {
-    let btnDownload = document.querySelector(".download");
-    let btnPrint = document.querySelector(".print");
-    btnPrint.addEventListener("click", function () {
-      window.print();
-    });
-    window.addEventListener("click", function () {
-      btnDownload.classList.remove("open");
-    });
-    btnDownload.addEventListener("click", function () {
-      event.stopPropagation();
-      this.classList.toggle("open");
-    });
-
-    // Scroll Action
-    var prevScrollpos = window.pageYOffset;
-    window.onscroll = function () {
-      var currentScrollPos = window.pageYOffset;
-      if (prevScrollpos < currentScrollPos) {
-        btnDownload.style.bottom = "10px";
-      } else {
-        btnDownload.classList.remove("open");
-        btnDownload.style.bottom = "-80px";
-      }
-      prevScrollpos = currentScrollPos;
-    };
-  })
-</script>
 
 </html>

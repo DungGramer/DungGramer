@@ -1,5 +1,28 @@
 const Download = () => (
-  <div class="download">
+  <div
+    class="download"
+    ref={(e) => {
+      window.addEventListener('click', () => {
+        if (e.className === 'download') {
+          e.classList.add('open');
+        } else {
+          e.classList.remove('open');
+        }
+      });
+
+      let prevScrollPosition = window.pageYOffset;
+      window.onscroll = () => {
+        const currentScrollPos = window.pageYOffset;
+        if (prevScrollPosition < currentScrollPos) {
+          e.style.bottom = '10px';
+        } else {
+          e.classList.remove('open');
+          e.style.bottom = '-80px';
+        }
+        prevScrollPosition = currentScrollPos;
+      };
+    }}
+  >
     <ul class="download__wrapper">
       <li>
         <a
@@ -10,7 +33,16 @@ const Download = () => (
         </a>
       </li>
       <li>
-        <p class="print">Print</p>
+        <p
+          class="print"
+          ref={(e) => {
+            e.addEventListener('click', () => {
+              window.print();
+            });
+          }}
+        >
+          Print
+        </p>
       </li>
     </ul>
   </div>
