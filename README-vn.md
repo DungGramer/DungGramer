@@ -16,7 +16,7 @@
 </table>
  
 ### <div align="center">👍 Mình là Nguyễn Công Dũng. Hiện mình đang là Middle Front-end Web Developer.  🚀</div>
-❤️ Tôi yêu thích Lập trình, làm ứng dụng / phần mềm cho Di động, Web và cho Máy tính. Tôi cảm thấy tuyệt vời khi thấy bản thân mình tiến bộ qua từng ngày. Tôi muốn tạo ra những thứ thay đổi thế giới, dù chỉ là rất nhỏ. Đó là lý do tại sao tôi thích tạo ra những thứ khác biệt, đôi khi là đơn giản.  
+❤️ Mình yêu thích Lập trình, làm ứng dụng / phần mềm cho Di động, Web và cho Máy tính. Mình cảm thấy tuyệt vời khi thấy bản thân mình tiến bộ qua từng ngày. Mình muốn tạo ra những thứ thay đổi thế giới, dù chỉ là rất nhỏ. Đó là lý do tại sao mình thích tạo ra những thứ khác biệt, đôi khi là đơn giản.  
 
 <br/>
 
@@ -44,6 +44,7 @@
 <br />
 
 ## 📦 Gói NPM Packages của mình
+[![npm](https://img.shields.io/npm/dt/jsx-mini?label=jsx-mini)](https://www.npmjs.com/package/jsx-mini)
 [![npm](https://img.shields.io/npm/dt/type-detail?label=type-detail)](https://www.npmjs.com/package/type-detail)
 [![npm](https://img.shields.io/npm/dt/constancy?label=constancy)](https://www.npmjs.com/package/constancy)
 [![npm](https://img.shields.io/npm/dt/toc-generate?label=toc-generate)](https://www.npmjs.com/package/toc-generate)
@@ -84,14 +85,13 @@
 
 **Nói vài thứ về mình:**
 
-- 👨🏻‍💻 Tôi hiện đang làm việc gì đó thú vị;
-- 🚀 Tôi hiện đang học về Cấu trúc dữ liệu và thuật toán trên [Hackerank](https://www.hackerrank.com/DungGramer);
-- 💬 Hỏi tôi về bất cứ điều gì, tôi rất sẵn lòng giúp đỡ;
-<!-- - 📝 I regulary write articles on [hashnode](https://dunggramer.hashnode.dev/); -->
+- 👨🏻‍💻 Mình hiện đang làm việc gì đó thú vị;
+- 🚀 Mình hiện đang học về Cấu trúc dữ liệu và thuật toán trên [Hackerank](https://www.hackerrank.com/DungGramer);
+- 💬 Hãy hỏi mình về bất cứ điều gì, mình rất sẵn lòng giúp đỡ;
 </br></br>
   
  
-## 📊 My GitHub Stats
+## 📊 Số liệu thống kê của mình
 
 <details>
   <summary>Số liệu thống kê chung</summary>
@@ -103,7 +103,7 @@
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=DungGramer&theme=midnight-purple&hide_border=true&layout=compact&custom_title=Most+Used+Languages*&langs_count=10" alt="most used languages" />
     </a>
-    <p><b>*Lưu ý:</b> Các ngôn ngữ hàng đầu chỉ là thước đo của các ngôn ngữ của dự án mà tôi công khai và không phản ánh kinh nghiệm hoặc trình độ, kỹ năng của tôi.</p>
+    <p><b>*Lưu ý:</b> Các ngôn ngữ hàng đầu chỉ là thước đo của các ngôn ngữ của dự án mà mình công khai và không phản ánh kinh nghiệm hoặc trình độ, kỹ năng của mình.</p>
 </details>
 
 <details>
@@ -129,7 +129,7 @@
 
 <img alt="github contribution snake animation" src="https://github.com/DungGramer/DungGramer/blob/metrics/github-contribution-grid-snake.svg">
 
-### 🙏 Xin được gửi lời cảm ơn tới những người đã theo dõi tôi
+### 🙏 Xin được gửi lời cảm ơn tới những người đã theo dõi mình
 <img alt="Follower" src="https://github.com/DungGramer/DungGramer/blob/master/public/metrics/followers.svg">
 
 <br><br>

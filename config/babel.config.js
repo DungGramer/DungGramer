@@ -12,7 +12,7 @@ module.exports = {
       '@babel/preset-react',
       {
         runtime: 'automatic',
-        importSource: 'runtime',
+        importSource: 'jsx-mini',
       },
     ],
   ],

@@ -43,7 +43,8 @@
 
 <br />
 
-## 📦 NPM Packages Published by Me
+## 📦 My NPM Packages
+[![npm](https://img.shields.io/npm/dt/jsx-mini?label=jsx-mini)](https://www.npmjs.com/package/jsx-mini)
 [![npm](https://img.shields.io/npm/dt/type-detail?label=type-detail)](https://www.npmjs.com/package/type-detail)
 [![npm](https://img.shields.io/npm/dt/constancy?label=constancy)](https://www.npmjs.com/package/constancy)
 [![npm](https://img.shields.io/npm/dt/toc-generate?label=toc-generate)](https://www.npmjs.com/package/toc-generate)
