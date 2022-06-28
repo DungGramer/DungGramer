@@ -116,9 +116,9 @@
   <summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3091](https://github.com/sass/sass/issues/3091) in [sass/sass](https://github.com/sass/sass)
-2. ❗️ Opened issue [#1](https://github.com/DungGramer/dunggramer.com/issues/1) in [DungGramer/dunggramer.com](https://github.com/DungGramer/dunggramer.com)
-3. 🎉 Merged PR [#1](https://github.com/DungGramer/jsx-lite/pull/1) in [DungGramer/jsx-lite](https://github.com/DungGramer/jsx-lite)
+1. ❗️ Opened issue [#2](https://github.com/DungGramer/toc-generate/issues/2) in [DungGramer/toc-generate](https://github.com/DungGramer/toc-generate)
+2. 🗣 Commented on [#3091](https://github.com/sass/sass/issues/3091) in [sass/sass](https://github.com/sass/sass)
+3. ❗️ Opened issue [#1](https://github.com/DungGramer/dunggramer.com/issues/1) in [DungGramer/dunggramer.com](https://github.com/DungGramer/dunggramer.com)
 <!--END_SECTION:activity-->
 
 </details>
