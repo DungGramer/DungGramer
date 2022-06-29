@@ -2,13 +2,14 @@ const Download = () => (
   <div
     class="download"
     ref={(e) => {
-      window.addEventListener('click', () => {
+      const toggleOpen = () => {
         if (e.className === 'download') {
           e.classList.add('open');
         } else {
           e.classList.remove('open');
         }
-      });
+      }
+      window.addEventListener('click', toggleOpen);
 
       let prevScrollPosition = window.pageYOffset;
       window.onscroll = () => {
@@ -27,7 +28,8 @@ const Download = () => (
       <li>
         <a
           class="pdf"
-          href="//raw.githubusercontent.com/DungGramer/DungGramer/master/public/NguyenCongDung-resume.pdf"
+          href="https://raw.githubusercontent.com/DungGramer/DungGramer/master/public/NguyenCongDung-resume.pdf"
+          download
         >
           Download (.pdf)
         </a>
@@ -36,7 +38,7 @@ const Download = () => (
         <p
           class="print"
           ref={(e) => {
-            e.addEventListener('click', () => {
+            e.addEventListener('pointerdown', () => {
               window.print();
             });
           }}

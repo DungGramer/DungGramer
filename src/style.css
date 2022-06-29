@@ -261,7 +261,9 @@
 }
 
 @media print {
-  .download__wrapper {
-    display: none;
+  .download__wrapper,
+  .download,
+  .download__wrapper * {
+    display: none !important;
   }
 }
