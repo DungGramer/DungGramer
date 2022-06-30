@@ -2,14 +2,15 @@ const Download = () => (
   <div
     class="download"
     ref={(e) => {
-      const toggleOpen = () => {
-        if (e.className === 'download') {
-          e.classList.add('open');
-        } else {
-          e.classList.remove('open');
-        }
-      }
-      window.addEventListener('click', toggleOpen);
+      window.addEventListener('click', () => {
+        e.classList.remove('open');
+      });
+
+      e.addEventListener('click', (event) => {
+        event.stopPropagation();
+        e.classList.toggle('open');
+      });
+
 
       let prevScrollPosition = window.pageYOffset;
       window.onscroll = () => {
