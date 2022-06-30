@@ -5,11 +5,31 @@ const Experience = () => (
     </aside>
 
     <section class="content__container">
+    <article class="info">
+        <header>
+          <h3>
+            Middle Front-end,
+            <span>Cốc Cốc</span>
+          </h3>
+          <p class="sub-header">March 2021 - Now</p>
+        </header>
+        <main>
+          <ul>
+            <li>Custom build-in tools (webpack, babel,...) and optimize on PROD</li>
+            <li>Create A/B testing (up to 200% increase in conversion rate)</li>
+            <li>Add linting and stylelint to improving code quality</li>
+            <li>Transfer code to ES5 for more browser compatibility</li>
+            <li>Write unit test and E2E test for each component</li>
+          </ul>
+        </main>
+      </article>
+
+
       <article class="info">
         <header>
           <h3>
-            Front-end,
-            <span>TTC Solution - Unitel Project</span>
+            Fresher Front-end,
+            <span>TTC Solution</span>
           </h3>
           <p class="sub-header">December 2020 - February 2021</p>
         </header>
@@ -25,27 +45,6 @@ const Experience = () => (
               translating UI/UX design wireframes into code while producing high
               quality, reusable markup using HTML5 and CSS3
             </li>
-          </ul>
-        </main>
-      </article>
-
-      <article class="info">
-        <header>
-          <h3>
-            IT Support Technician,
-            <span>Hoang Bach Technology CO., LTD</span>
-          </h3>
-          <p>August 2017 - January 2018</p>
-        </header>
-        <main>
-          <ul>
-            <li>
-              Installing and configuring computer hardware, software, systems,
-              networks, printers and scanners
-            </li>
-            <li>Repairing and replacing equipment as necessary</li>
-            <li>Testing new technology</li>
-            <li>Sales, product consultation</li>
           </ul>
         </main>
       </article>

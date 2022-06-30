@@ -11,26 +11,27 @@ const Skill = () => (
         </header>
         <main>
           <ul>
-            <li>Javascript</li>
+            <li>React.JS</li>
+            <li>Javascript, TypeScript</li>
             <li>HTML</li>
             <li>CSS</li>
-            <li>React Native</li>
-            <li>Python</li>
+            <li>SASS, LESS, Stylus</li>
           </ul>
         </main>
       </article>
 
       <article class="info">
         <header>
-          <h3>Other</h3>
+          <h3>Framework</h3>
         </header>
         <main>
           <ul>
-            <li>Data Visualization</li>
             <li>Bookmarklet</li>
-            <li>Visual Design</li>
-            <li>Wireframe</li>
-            <li>Bash</li>
+            <li>Bash Script</li>
+            <li>Git Action</li>
+            <li>Webpack, Gulp</li>
+            <li>Babel, PostCSS</li>
+            <li>ESLint, Stylelint, Flow</li>
           </ul>
         </main>
       </article>
@@ -42,11 +43,8 @@ const Skill = () => (
         <main>
           <ul>
             <li>VS Code</li>
-            <li>Ubuntu, Windows</li>
+            <li>Windows, MacOS</li>
             <li>Figma</li>
-            <li>Adobe XD</li>
-            <li>Photoshop</li>
-            <li>illustrator</li>
           </ul>
         </main>
       </article>
