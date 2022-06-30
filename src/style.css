@@ -26,6 +26,7 @@
 @media not print {
   @media (max-width: 816px) {
     .A4 {
+      gap: 32px;
       height: unset;
       width: unset;
       padding: 15px;
