@@ -8,6 +8,8 @@
 }
 
 @page {
+  height: 297mm;
+  width: 210mm;
   margin: 0;
   padding: 0;
   size: a4;
@@ -28,7 +30,7 @@
 html {
   box-sizing: border-box;
   font:
-    62.5%/1.618 'Open Sans',
+    62.5%/1.5 'Open Sans',
     -apple-system,
     BlinkMacSystemFont,
     'Segoe UI',
@@ -52,13 +54,17 @@ p {
   padding: 0;
 }
 
+p {
+  text-align: justify;
+}
+
 ul {
   margin: 0;
   padding-left: 1.6rem;
 }
 
 ul li + li {
-  margin-top: .6rem;
+  margin-top: 16px;
 }
 
 *,
@@ -70,12 +76,50 @@ ul li + li {
 a {
   text-decoration: none;
   color: var(--black);
-  transform: all .3s ease;
 }
 
-a:hover {
-  color: var(--black-soft);
+
+@media not print {
+  a:not(.pdf) {
+    display: inline-block;
+    position: relative;
+    color: var(--black);
+    background-clip: text;
+    background-image:
+      linear-gradient(
+        to right,
+        var(--blue),
+        var(--blue) 50%,
+        var(--black) 50%
+      );
+    background-position: -100%;
+    background-size: 200% 100%;
+    transition: all .3s ease-in-out;
+    -webkit-text-fill-color: transparent;
+
+    &::before {
+      content: '';
+      will-change: all;
+      display: block;
+      position: absolute;
+      bottom: -3px;
+      left: 0;
+      height: 3px;
+      width: 0;
+      background: var(--blue);
+      transition: all .3s ease-in-out;
+    }
+
+    &:hover {
+      background-position: 0;
+    }
+
+    &:hover::before {
+      width: 100%;
+    }
+  }
 }
+
 
 a:focus {
   color: var(--black-focus);
