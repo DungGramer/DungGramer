@@ -8,7 +8,7 @@ const Experience = () => (
     <article class="info">
         <header>
           <h3>
-            Middle Front-end,
+            Middle Front-end Software Engineer,
             <span>Cốc Cốc</span>
           </h3>
           <p class="sub-header">March 2021 - Now</p>
