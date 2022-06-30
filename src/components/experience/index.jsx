@@ -5,7 +5,7 @@ const Experience = () => (
     </aside>
 
     <section class="content__container">
-    <article class="info">
+      <article class="info">
         <header>
           <h3>
             Middle Front-end Software Engineer,
@@ -15,15 +15,16 @@ const Experience = () => (
         </header>
         <main>
           <ul>
-            <li>Custom build-in tools (webpack, babel,...) and optimize on PROD</li>
-            <li>Create A/B testing (up to 200% increase in conversion rate)</li>
-            <li>Add linting and stylelint to improving code quality</li>
-            <li>Transfer code to ES5 for more browser compatibility</li>
-            <li>Write unit test and E2E test for each component</li>
+            <li>
+              <p><a href="https://qc.coccoc.com">Quảng Cáo Cốc Cốc</a></p>
+              <p>Created a new website for QC Cốc Cốc with React.JS. Project target for old browser ES5 support (IE11, Safari 9,...) and reduce size for production. I'm custom webpack config and only using css flexbox to make responsive.</p>
+            </li>
+            <li>
+              <p><a href="https://operation.coccoc.com/">Operation Tool</a></p>
+            </li>
           </ul>
         </main>
       </article>
-
 
       <article class="info">
         <header>
@@ -36,8 +37,14 @@ const Experience = () => (
         <main>
           <ul>
             <li>Development Unitel account management with Angular</li>
-            <li>Make Responsive web design, improving performance and user experience</li>
-            <li>Add Accessibility for enabling as many people as possible to use websites</li>
+            <li>
+              Make Responsive web design, improving performance and user
+              experience
+            </li>
+            <li>
+              Add Accessibility for enabling as many people as possible to use
+              websites
+            </li>
           </ul>
         </main>
       </article>
