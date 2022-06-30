@@ -31,7 +31,7 @@ const Skill = () => (
             <li>Git Action</li>
             <li>Webpack, Gulp</li>
             <li>Babel, PostCSS</li>
-            <li>ESLint, Stylelint, Flow</li>
+            <li>ESLint, Stylelint</li>
           </ul>
         </main>
       </article>

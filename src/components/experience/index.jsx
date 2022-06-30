@@ -35,16 +35,9 @@ const Experience = () => (
         </header>
         <main>
           <ul>
-            <li>Designed dynamic pages using Angular</li>
-            <li>Expand feature, refine code</li>
-            <li>
-              Responsive web design, UI using Flex Layout, CSS media query
-            </li>
-            <li>
-              Produced stunning visual elements of web applications by
-              translating UI/UX design wireframes into code while producing high
-              quality, reusable markup using HTML5 and CSS3
-            </li>
+            <li>Development Unitel account management with Angular</li>
+            <li>Make Responsive web design, improving performance and user experience</li>
+            <li>Add Accessibility for enabling as many people as possible to use websites</li>
           </ul>
         </main>
       </article>

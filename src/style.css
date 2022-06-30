@@ -139,6 +139,7 @@
 }
 
 .info header h3 span {
+  margin-left: .5rem;
   font-weight: normal;
   color: var(--gray);
 }
