@@ -6,7 +6,7 @@
   "scripts": {
     "start": "webpack serve --config ./config/webpack.dev.js --open --progress --color ",
     "build": "webpack --config ./config/webpack.prod.js --progress --color --mode production",
-    "serve": "serve -s public",
+    "serve": "serve -s dist",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
