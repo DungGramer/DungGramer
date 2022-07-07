@@ -116,9 +116,9 @@
   <summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#12](https://github.com/DungGramer/simple-design-system/issues/12) in [DungGramer/simple-design-system](https://github.com/DungGramer/simple-design-system)
-2. ❗️ Closed issue [#6](https://github.com/DungGramer/simple-design-system/issues/6) in [DungGramer/simple-design-system](https://github.com/DungGramer/simple-design-system)
-3. ❗️ Opened issue [#2](https://github.com/DungGramer/toc-generate/issues/2) in [DungGramer/toc-generate](https://github.com/DungGramer/toc-generate)
+1. ❗️ Opened issue [#13](https://github.com/DungGramer/simple-design-system/issues/13) in [DungGramer/simple-design-system](https://github.com/DungGramer/simple-design-system)
+2. ❗️ Opened issue [#12](https://github.com/DungGramer/simple-design-system/issues/12) in [DungGramer/simple-design-system](https://github.com/DungGramer/simple-design-system)
+3. ❗️ Closed issue [#6](https://github.com/DungGramer/simple-design-system/issues/6) in [DungGramer/simple-design-system](https://github.com/DungGramer/simple-design-system)
 <!--END_SECTION:activity-->
 
 </details>
