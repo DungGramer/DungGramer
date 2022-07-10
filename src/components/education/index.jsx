@@ -8,7 +8,7 @@ const Education = () => (
       <article class="info">
         <header>
           <h3>Hanoi University of Business and Technology</h3>
-          <p>Information Technology - 3.7 GPA</p>
+          <p>Information Technology - 3.35 GPA | 7.97</p>
         </header>
       </article>
     </section>
