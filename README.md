@@ -49,6 +49,7 @@
 [![npm](https://img.shields.io/npm/dt/constancy?label=constancy)](https://www.npmjs.com/package/constancy)
 [![npm](https://img.shields.io/npm/dt/toc-generate?label=toc-generate)](https://www.npmjs.com/package/toc-generate)
 [![npm](https://img.shields.io/npm/dt/color-types?label=color-types)](https://www.npmjs.com/package/color-types)
+[![npm](https://img.shields.io/npm/dt/@dunggramer/prettier?label=@dunggramer/prettier)](https://www.npmjs.com/package/@dunggramer/prettier)
 
 ## My Coding Challenge Rank
 [![LeetCode user DungGramer](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FDungGramer&logo=leetcode&logoColor=yellow)](https://leetcode.com/DungGramer/)
