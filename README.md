@@ -118,9 +118,9 @@
   <summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/DungGramer/ITCSS/issues/1) in [DungGramer/ITCSS](https://github.com/DungGramer/ITCSS)
-2. 💪 Opened PR [#1](https://github.com/DungGramer/yogi/pull/1) in [DungGramer/yogi](https://github.com/DungGramer/yogi)
-3. 🗣 Commented on [#13](https://github.com/DungGramer/simple-design-system/issues/13) in [DungGramer/simple-design-system](https://github.com/DungGramer/simple-design-system)
+1. ❗️ Closed issue [#1](https://github.com/DungGramer/prettier/issues/1) in [DungGramer/prettier](https://github.com/DungGramer/prettier)
+2. 🗣 Commented on [#1](https://github.com/DungGramer/prettier/issues/1) in [DungGramer/prettier](https://github.com/DungGramer/prettier)
+3. 🗣 Commented on [#2](https://github.com/DungGramer/prettier/issues/2) in [DungGramer/prettier](https://github.com/DungGramer/prettier)
 <!--END_SECTION:activity-->
 
 </details>
