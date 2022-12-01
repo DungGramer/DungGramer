@@ -118,9 +118,9 @@
   <summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/DungGramer/spamMessage/pull/2) in [DungGramer/spamMessage](https://github.com/DungGramer/spamMessage)
-2. 🎉 Merged PR [#20](https://github.com/DungGramer/simple-design-system/pull/20) in [DungGramer/simple-design-system](https://github.com/DungGramer/simple-design-system)
-3. 💪 Opened PR [#20](https://github.com/DungGramer/simple-design-system/pull/20) in [DungGramer/simple-design-system](https://github.com/DungGramer/simple-design-system)
+1. 🎉 Merged PR [#1](https://github.com/DungGramer/blog.dunggramer.com/pull/1) in [DungGramer/blog.dunggramer.com](https://github.com/DungGramer/blog.dunggramer.com)
+2. 💪 Opened PR [#1](https://github.com/DungGramer/blog.dunggramer.com/pull/1) in [DungGramer/blog.dunggramer.com](https://github.com/DungGramer/blog.dunggramer.com)
+3. 💪 Opened PR [#23](https://github.com/DungGramer/simple-design-system/pull/23) in [DungGramer/simple-design-system](https://github.com/DungGramer/simple-design-system)
 <!--END_SECTION:activity-->
 
 </details>
