@@ -118,9 +118,9 @@
   <summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/DungGramer/blog.dunggramer.com/pull/1) in [DungGramer/blog.dunggramer.com](https://github.com/DungGramer/blog.dunggramer.com)
-2. 💪 Opened PR [#1](https://github.com/DungGramer/blog.dunggramer.com/pull/1) in [DungGramer/blog.dunggramer.com](https://github.com/DungGramer/blog.dunggramer.com)
-3. 💪 Opened PR [#23](https://github.com/DungGramer/simple-design-system/pull/23) in [DungGramer/simple-design-system](https://github.com/DungGramer/simple-design-system)
+1. ❗️ Opened issue [#26](https://github.com/DungGramer/simple-design-system/issues/26) in [DungGramer/simple-design-system](https://github.com/DungGramer/simple-design-system)
+2. 💪 Opened PR [#2](https://github.com/DungGramer/blog.dunggramer.com/pull/2) in [DungGramer/blog.dunggramer.com](https://github.com/DungGramer/blog.dunggramer.com)
+3. ❗️ Opened issue [#8145](https://github.com/VSCodeVim/Vim/issues/8145) in [VSCodeVim/Vim](https://github.com/VSCodeVim/Vim)
 <!--END_SECTION:activity-->
 
 </details>
