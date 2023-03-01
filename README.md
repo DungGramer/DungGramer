@@ -118,9 +118,9 @@
   <summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#26](https://github.com/DungGramer/simple-design-system/issues/26) in [DungGramer/simple-design-system](https://github.com/DungGramer/simple-design-system)
-2. 💪 Opened PR [#2](https://github.com/DungGramer/blog.dunggramer.com/pull/2) in [DungGramer/blog.dunggramer.com](https://github.com/DungGramer/blog.dunggramer.com)
-3. ❗️ Opened issue [#8145](https://github.com/VSCodeVim/Vim/issues/8145) in [VSCodeVim/Vim](https://github.com/VSCodeVim/Vim)
+1. ❌ Closed PR [#2](https://github.com/DungGramer/blog.dunggramer.com/pull/2) in [DungGramer/blog.dunggramer.com](https://github.com/DungGramer/blog.dunggramer.com)
+2. 🗣 Commented on [#7612](https://github.com/ant-design/ant-design/issues/7612) in [ant-design/ant-design](https://github.com/ant-design/ant-design)
+3. ❗️ Opened issue [#26](https://github.com/DungGramer/simple-design-system/issues/26) in [DungGramer/simple-design-system](https://github.com/DungGramer/simple-design-system)
 <!--END_SECTION:activity-->
 
 </details>
