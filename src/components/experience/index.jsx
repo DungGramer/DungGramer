@@ -17,15 +17,15 @@ const Experience = () => (
           <ul>
             <li>
               <strong><a href="https://qc.coccoc.com">Quảng Cáo Cốc Cốc</a></strong>
-              <p>Created a new website to introduce QC Cốc Cốc with React. JS. Project target for old browser ES5 support (IE11, Safari 9,...) and reduce size for production. I'm custom webpack config and only using CSS flexbox to make responsive. And then, add SEO to rank higher when users search.</p>
+              <p>Created a new website using React.js to introduce QC Cốc Cốc. I ensured that the project was optimized for old browsers (such as IE11 and Safari 9) and reduced the size for production. I also customized the webpack config and used only CSS flexbox for responsiveness. Additionally, I added SEO to improve ranking when users searched for the website.</p>
             </li>
             <li>
               <strong><a href="https://operation.coccoc.com/">Operation Tool</a></strong>
-              <p>A local tool to help the DEV team save time to support setting a rule of mapping advert and publisher. Otherwise, help the Operator team actively/quickly set the rule. I did connect with PHP and visualize the data in the table.</p>
+              <p>Developed a local tool to help the DEV team save time supporting the setting of mapping advert and publisher rule. I connected it with PHP and visualized the data in a table.</p>
             </li>
             <li>
             <strong><a href="https://coccoc.com/search">Ad Tag, Search Ad</a></strong>
-              <p>Determine responsive ad layout based on the space available. I'm writing unit tests for each component. With Search ad, I create A/B testing and E2E test before deployment.</p>
+              <p>Determined responsive ad layout based on the available space. I also wrote unit tests for each component. For Search Ad, I created A/B testing and E2E test before deployment.</p>
             </li>
           </ul>
         </main>
@@ -43,9 +43,7 @@ const Experience = () => (
           <ul>
             <li>
               <strong ><a href="https://www.unitel.com.la/account">Unitel</a></strong>
-              <p>
-                Development account management system with Angular and Material UI. I'm Make Responsive web design, improving performance and user experience. After that, Add Accessibility for enabling as many people as possible to use websites.
-              </p>
+              <p>Developed an account management system using Angular and Material UI. I made it responsive, improved performance, and enhanced user experience. I also added accessibility to enable as many people as possible to use the website.</p>
             </li>
           </ul>
         </main>
