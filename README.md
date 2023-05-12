@@ -3,7 +3,7 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=dunggramer.dunggramer)  
+### Glad to see you here! &nbsp;
 [![Cover](https://raw.githubusercontent.com/DungGramer/DungGramer/master/public/image/cover-readme.png)](https://github.com/DungGramer/)    
 
 
@@ -133,6 +133,11 @@
 <img alt="github contribution snake animation" src="https://github.com/DungGramer/DungGramer/blob/metrics/github-contribution-grid-snake.svg">
 
 <br><br>
+
+### ♥ Thanks for visting
+<div align="center">
+<a href="https://info.flagcounter.com/0oLd"><img src="https://s11.flagcounter.com/count2/0oLd/bg_FFFFFF/txt_000000/border_FFFFFF/columns_8/maxflags_15/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+</div>
 
 ### 🙏 Give a thanks to the following people
 <img alt="Follower" src="https://github.com/DungGramer/DungGramer/blob/master/public/metrics/followers.svg">

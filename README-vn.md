@@ -131,6 +131,12 @@
 
 <img alt="github contribution snake animation" src="https://github.com/DungGramer/DungGramer/blob/metrics/github-contribution-grid-snake.svg">
 
+<br><br>
+### ♥ Cảm ơn đã ghé thăm
+<div align="center">
+<a href="https://info.flagcounter.com/0oLd"><img src="https://s11.flagcounter.com/count2/0oLd/bg_FFFFFF/txt_000000/border_FFFFFF/columns_8/maxflags_15/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+</div>
+
 ### 🙏 Xin được gửi lời cảm ơn tới những người đã theo dõi mình
 <img alt="Follower" src="https://github.com/DungGramer/DungGramer/blob/master/public/metrics/followers.svg">
 
