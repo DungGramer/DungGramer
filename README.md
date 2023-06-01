@@ -118,9 +118,9 @@
   <summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/Queanhhoang/Project/pull/1) in [Queanhhoang/Project](https://github.com/Queanhhoang/Project)
-2. 🗣 Commented on [#7612](https://github.com/ant-design/ant-design/issues/7612) in [ant-design/ant-design](https://github.com/ant-design/ant-design)
-3. ❌ Closed PR [#1](https://github.com/luannguyen252/luannguyen/pull/1) in [luannguyen252/luannguyen](https://github.com/luannguyen252/luannguyen)
+1. 🚀 Published release [Release v4.1.0](https://github.com/Release v4.1.0) in [DungGramer/prettier](https://github.com/DungGramer/prettier)
+2. 🚀 Published release [Fix syntax tabs, semi options](https://github.com/Fix syntax tabs, semi options) in [DungGramer/prettier](https://github.com/DungGramer/prettier)
+3. ❗ Opened issue [#8](https://github.com/DungGramer/react-boilerplate/issues/8) in [DungGramer/react-boilerplate](https://github.com/DungGramer/react-boilerplate)
 <!--END_SECTION:activity-->
 
 </details>
