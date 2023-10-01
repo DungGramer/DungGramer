@@ -118,7 +118,7 @@
   <summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Release v4.1.0](https://github.com/DungGramer/prettier/releases/tag/v4.1.0) in [DungGramer/prettier](https://github.com/DungGramer/prettier)
+1. 💪 Opened PR [#4](https://github.com/DungGramer/spamMessage/pull/4) in [DungGramer/spamMessage](https://github.com/DungGramer/spamMessage)
 2. 🚀 Published release [Fix syntax tabs, semi options](https://github.com/DungGramer/prettier/releases/tag/v4.1.0) in [DungGramer/prettier](https://github.com/DungGramer/prettier)
 3. ❗ Opened issue [#8](https://github.com/DungGramer/react-boilerplate/issues/8) in [DungGramer/react-boilerplate](https://github.com/DungGramer/react-boilerplate)
 <!--END_SECTION:activity-->
