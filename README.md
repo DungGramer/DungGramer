@@ -135,9 +135,9 @@
 
   
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/DungGramer/DungGramer/blob/metrics/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/DungGramer/DungGramer/blob/metrics/github-snake.svg" />
-  <img alt="github-snake" src="https://github.com/DungGramer/DungGramer/blob/metrics/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/DungGramer/DungGramer/blob/metrics/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DungGramer/DungGramer/metrics/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/DungGramer/DungGramer/metrics/github-contribution-grid-snake.svg" />
 </picture>
 
 <br><br>
