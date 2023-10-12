@@ -131,7 +131,9 @@
   <img src="https://github.com/DungGramer/DungGramer/blob/master/public/metrics/achievements.svg" />
 </details>
 
-<img alt="github contribution snake animation" src="https://github.com/DungGramer/DungGramer/blob/metrics/github-contribution-grid-snake.svg">
+<!-- <img alt="github contribution snake animation" src="https://github.com/DungGramer/DungGramer/blob/metrics/github-contribution-grid-snake.svg"> -->
+
+  
 ![github contribution grid snake animation](https://github.com/DungGramer/DungGramer/blob/metrics/github-contribution-grid-snake.svg)
 
 <br><br>
