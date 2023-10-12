@@ -54,6 +54,7 @@
 ## My Coding Challenge Rank
 [![LeetCode user DungGramer](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FDungGramer&logo=leetcode&logoColor=yellow)](https://leetcode.com/DungGramer/)
 [![Codewars user DungGramer](https://www.codewars.com/users/DungGramer/badges/micro)](https://www.codewars.com/users/DungGramer/)
+[![committers.top badge](https://user-badge.committers.top/vietnam/DungGramer.svg)](https://user-badge.committers.top/vietnam/DungGramer)
 
 
 ## 📞 Connect with me 
