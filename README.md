@@ -54,7 +54,6 @@
 ## My Coding Challenge Rank
 [![LeetCode user DungGramer](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FDungGramer&logo=leetcode&logoColor=yellow)](https://leetcode.com/DungGramer/)
 [![Codewars user DungGramer](https://www.codewars.com/users/DungGramer/badges/micro)](https://www.codewars.com/users/DungGramer/)
-[![committers.top badge](https://user-badge.committers.top/vietnam/DungGramer.svg)](https://user-badge.committers.top/vietnam/DungGramer)
 
 
 ## 📞 Connect with me 
@@ -71,11 +70,11 @@
 <a href="https://t.me/DungGramer">
     <img alt="link to my Telegram" src="https://img.shields.io/static/v1?label&message=@DungGramer&color=26A5E4&style=for-the-badge&logo=telegram&logoColor=whitesmoke" />
 </a>
-<a href="https://www.facebook.com/dung.dev.gramer/">
-    <img alt="link to my Facebook" src="https://img.shields.io/static/v1?label&message=dung.dev.gramer&color=2d87fb&style=for-the-badge&logo=facebook&logoColor=white" />
+<a href="https://www.facebook.com/dungnc2507/">
+    <img alt="link to my Facebook" src="https://img.shields.io/static/v1?label&message=dungnc2507&color=2d87fb&style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
-<a href="https://www.instagram.com/DungGramer/">
-    <img alt="link to my Instagram" src="https://img.shields.io/static/v1?label&message=@DungGramer&color=7E3ACE&style=for-the-badge&logo=instagram&logoColor=whitesmoke" />
+<a href="https://www.instagram.com/dungnc2507/">
+    <img alt="link to my Instagram" src="https://img.shields.io/static/v1?label&message=@dungnc2507&color=7E3ACE&style=for-the-badge&logo=instagram&logoColor=whitesmoke" />
 </a>
 <a href="mailto:dung.dev.gramer@gmail.com">
     <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=dung.dev.gramer@gmail.com&color=whitesmoke&style=for-the-badge&logo=gmail" />
@@ -128,6 +127,7 @@
 
 <details>
   <summary>Achievements</summary> 
+  <img src="https://holopin.me/dunggramer" alt="An image of @dunggramer's Holopin badges, which is a link to view their full Holopin profile" />
   <img src="https://github.com/DungGramer/DungGramer/blob/master/public/metrics/achievements.svg" />
 </details>
 
