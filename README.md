@@ -118,9 +118,9 @@
   <summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2426](https://github.com/pylint-dev/pylint/issues/2426#issuecomment-1862083831) in [pylint-dev/pylint](https://github.com/pylint-dev/pylint)
-2. 💪 Opened PR [#5](https://github.com/DungGramer/spamMessage/pull/5) in [DungGramer/spamMessage](https://github.com/DungGramer/spamMessage)
-3. 🎉 Merged PR [#4](https://github.com/DungGramer/disable-devtool/pull/4) in [DungGramer/disable-devtool](https://github.com/DungGramer/disable-devtool)
+1. 💪 Opened PR [#6](https://github.com/DungGramer/spamMessage/pull/6) in [DungGramer/spamMessage](https://github.com/DungGramer/spamMessage)
+2. 🎉 Merged PR [#5](https://github.com/DungGramer/dunggramer.com/pull/5) in [DungGramer/dunggramer.com](https://github.com/DungGramer/dunggramer.com)
+3. 💪 Opened PR [#5](https://github.com/DungGramer/dunggramer.com/pull/5) in [DungGramer/dunggramer.com](https://github.com/DungGramer/dunggramer.com)
 <!--END_SECTION:activity-->
 
 </details>
