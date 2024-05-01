@@ -118,9 +118,9 @@
   <summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7](https://github.com/DungGramer/spamMessage/pull/7) in [DungGramer/spamMessage](https://github.com/DungGramer/spamMessage)
-2. 🗣 Commented on [#5506](https://github.com/chakra-ui/chakra-ui/issues/5506#issuecomment-1920935666) in [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui)
-3. 💪 Opened PR [#6](https://github.com/DungGramer/spamMessage/pull/6) in [DungGramer/spamMessage](https://github.com/DungGramer/spamMessage)
+1. 🗣 Commented on [#1](https://github.com/DungGramer/vs-aligner/issues/1#issuecomment-2053980454) in [DungGramer/vs-aligner](https://github.com/DungGramer/vs-aligner)
+2. 🔒 Closed issue [#1](https://github.com/DungGramer/vs-aligner/issues/1) in [DungGramer/vs-aligner](https://github.com/DungGramer/vs-aligner)
+3. 🎉 Merged PR [#2](https://github.com/DungGramer/vs-aligner/pull/2) in [DungGramer/vs-aligner](https://github.com/DungGramer/vs-aligner)
 <!--END_SECTION:activity-->
 
 </details>
