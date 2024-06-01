@@ -118,9 +118,9 @@
   <summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/DungGramer/vs-aligner/issues/1#issuecomment-2053980454) in [DungGramer/vs-aligner](https://github.com/DungGramer/vs-aligner)
-2. 🔒 Closed issue [#1](https://github.com/DungGramer/vs-aligner/issues/1) in [DungGramer/vs-aligner](https://github.com/DungGramer/vs-aligner)
-3. 🎉 Merged PR [#2](https://github.com/DungGramer/vs-aligner/pull/2) in [DungGramer/vs-aligner](https://github.com/DungGramer/vs-aligner)
+1. 💪 Opened PR [#28](https://github.com/DungGramer/simple-design-system/pull/28) in [DungGramer/simple-design-system](https://github.com/DungGramer/simple-design-system)
+2. 💪 Opened PR [#27](https://github.com/DungGramer/simple-design-system/pull/27) in [DungGramer/simple-design-system](https://github.com/DungGramer/simple-design-system)
+3. 🗣 Commented on [#1](https://github.com/DungGramer/vs-aligner/issues/1#issuecomment-2053980454) in [DungGramer/vs-aligner](https://github.com/DungGramer/vs-aligner)
 <!--END_SECTION:activity-->
 
 </details>
