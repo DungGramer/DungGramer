@@ -118,9 +118,9 @@
   <summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/DungGramer/easy-comm/pull/1) in [DungGramer/easy-comm](https://github.com/DungGramer/easy-comm)
-2. 💪 Opened PR [#1](https://github.com/DungGramer/auto-dang-ky-tin-hvnh/pull/1) in [DungGramer/auto-dang-ky-tin-hvnh](https://github.com/DungGramer/auto-dang-ky-tin-hvnh)
-3. 💪 Opened PR [#28](https://github.com/DungGramer/simple-design-system/pull/28) in [DungGramer/simple-design-system](https://github.com/DungGramer/simple-design-system)
+1. 💪 Opened PR [#7](https://github.com/DungGramer/angular-code-with-mosh/pull/7) in [DungGramer/angular-code-with-mosh](https://github.com/DungGramer/angular-code-with-mosh)
+2. 💪 Opened PR [#6](https://github.com/DungGramer/angular-code-with-mosh/pull/6) in [DungGramer/angular-code-with-mosh](https://github.com/DungGramer/angular-code-with-mosh)
+3. 💪 Opened PR [#2](https://github.com/DungGramer/auto-dang-ky-tin-hvnh/pull/2) in [DungGramer/auto-dang-ky-tin-hvnh](https://github.com/DungGramer/auto-dang-ky-tin-hvnh)
 <!--END_SECTION:activity-->
 
 </details>
