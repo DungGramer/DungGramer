@@ -118,9 +118,9 @@
   <summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7](https://github.com/DungGramer/angular-code-with-mosh/pull/7) in [DungGramer/angular-code-with-mosh](https://github.com/DungGramer/angular-code-with-mosh)
-2. 💪 Opened PR [#6](https://github.com/DungGramer/angular-code-with-mosh/pull/6) in [DungGramer/angular-code-with-mosh](https://github.com/DungGramer/angular-code-with-mosh)
-3. 💪 Opened PR [#2](https://github.com/DungGramer/auto-dang-ky-tin-hvnh/pull/2) in [DungGramer/auto-dang-ky-tin-hvnh](https://github.com/DungGramer/auto-dang-ky-tin-hvnh)
+1. 💪 Opened PR [#8](https://github.com/DungGramer/angular-code-with-mosh/pull/8) in [DungGramer/angular-code-with-mosh](https://github.com/DungGramer/angular-code-with-mosh)
+2. 💪 Opened PR [#7](https://github.com/DungGramer/angular-code-with-mosh/pull/7) in [DungGramer/angular-code-with-mosh](https://github.com/DungGramer/angular-code-with-mosh)
+3. 💪 Opened PR [#6](https://github.com/DungGramer/angular-code-with-mosh/pull/6) in [DungGramer/angular-code-with-mosh](https://github.com/DungGramer/angular-code-with-mosh)
 <!--END_SECTION:activity-->
 
 </details>
