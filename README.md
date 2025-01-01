@@ -118,9 +118,9 @@
   <summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com/dungcoding/useful-code/pull/6) in [dungcoding/useful-code](https://github.com/dungcoding/useful-code)
-2. 💪 Opened PR [#5](https://github.com/dungcoding/useful-code/pull/5) in [dungcoding/useful-code](https://github.com/dungcoding/useful-code)
-3. 💪 Opened PR [#4](https://github.com/dungcoding/useful-code/pull/4) in [dungcoding/useful-code](https://github.com/dungcoding/useful-code)
+1. 💪 Opened PR [#10](https://github.com/csga5000/tinymce-prevent-delete/pull/10) in [csga5000/tinymce-prevent-delete](https://github.com/csga5000/tinymce-prevent-delete)
+2. ❗ Opened issue [#3191](https://github.com/EclipseFdn/open-vsx.org/issues/3191) in [EclipseFdn/open-vsx.org](https://github.com/EclipseFdn/open-vsx.org)
+3. 🚀 Published release [Release v1.2.1](https://github.com/DungGramer/vs-aligner/releases/tag/v1.2.1) in [DungGramer/vs-aligner](https://github.com/DungGramer/vs-aligner)
 <!--END_SECTION:activity-->
 
 </details>
