@@ -118,7 +118,7 @@
   <summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#10](https://github.com/csga5000/tinymce-prevent-delete/pull/10) in [csga5000/tinymce-prevent-delete](https://github.com/csga5000/tinymce-prevent-delete)
+1. 💪 Opened PR [#2](https://github.com/DungGramer/docs/pull/2) in [DungGramer/docs](https://github.com/DungGramer/docs)
 2. ❗ Opened issue [#3191](https://github.com/EclipseFdn/open-vsx.org/issues/3191) in [EclipseFdn/open-vsx.org](https://github.com/EclipseFdn/open-vsx.org)
 3. 🚀 Published release [Release v1.2.1](https://github.com/DungGramer/vs-aligner/releases/tag/v1.2.1) in [DungGramer/vs-aligner](https://github.com/DungGramer/vs-aligner)
 <!--END_SECTION:activity-->
