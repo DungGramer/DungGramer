@@ -118,8 +118,8 @@
   <summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/DungGramer/docs/pull/3) in [DungGramer/docs](https://github.com/DungGramer/docs)
-2. ❗ Opened issue [#3191](https://github.com/EclipseFdn/open-vsx.org/issues/3191) in [EclipseFdn/open-vsx.org](https://github.com/EclipseFdn/open-vsx.org)
+1. 💪 Opened PR [#97271](https://github.com/firstcontributions/first-contributions/pull/97271) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
+2. ❗ Opened issue [#2](https://github.com/DungGramer/DungGramer/issues/2) in [DungGramer/DungGramer](https://github.com/DungGramer/DungGramer)
 3. 🚀 Published release [Release v1.2.1](https://github.com/DungGramer/vs-aligner/releases/tag/v1.2.1) in [DungGramer/vs-aligner](https://github.com/DungGramer/vs-aligner)
 <!--END_SECTION:activity-->
 
