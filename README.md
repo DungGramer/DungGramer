@@ -118,9 +118,9 @@
   <summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#97271](https://github.com/firstcontributions/first-contributions/pull/97271) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
-2. ❗ Opened issue [#2](https://github.com/DungGramer/DungGramer/issues/2) in [DungGramer/DungGramer](https://github.com/DungGramer/DungGramer)
-3. 🚀 Published release [Release v1.2.1](https://github.com/DungGramer/vs-aligner/releases/tag/v1.2.1) in [DungGramer/vs-aligner](https://github.com/DungGramer/vs-aligner)
+1. 💪 Opened PR [#2](https://github.com/DungGramer/snowpack-react-boilerplate/pull/2) in [DungGramer/snowpack-react-boilerplate](https://github.com/DungGramer/snowpack-react-boilerplate)
+2. 💪 Opened PR [#10](https://github.com/DungGramer/react-boilerplate/pull/10) in [DungGramer/react-boilerplate](https://github.com/DungGramer/react-boilerplate)
+3. 💪 Opened PR [#3](https://github.com/DungGramer/split-button/pull/3) in [DungGramer/split-button](https://github.com/DungGramer/split-button)
 <!--END_SECTION:activity-->
 
 </details>
