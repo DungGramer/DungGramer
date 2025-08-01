@@ -118,8 +118,8 @@
   <summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/DungGramer/snowpack-react-boilerplate/pull/2) in [DungGramer/snowpack-react-boilerplate](https://github.com/DungGramer/snowpack-react-boilerplate)
-2. 💪 Opened PR [#10](https://github.com/DungGramer/react-boilerplate/pull/10) in [DungGramer/react-boilerplate](https://github.com/DungGramer/react-boilerplate)
+1. 💪 Opened PR [#4](https://github.com/DungGramer/docs/pull/4) in [DungGramer/docs](https://github.com/DungGramer/docs)
+2. 💪 Opened PR [#3](https://github.com/DungGramer/auto-dang-ky-tin-hvnh/pull/3) in [DungGramer/auto-dang-ky-tin-hvnh](https://github.com/DungGramer/auto-dang-ky-tin-hvnh)
 3. 💪 Opened PR [#3](https://github.com/DungGramer/split-button/pull/3) in [DungGramer/split-button](https://github.com/DungGramer/split-button)
 <!--END_SECTION:activity-->
 
