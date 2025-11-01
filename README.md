@@ -118,8 +118,8 @@
   <summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/DungGramer/docs/pull/4) in [DungGramer/docs](https://github.com/DungGramer/docs)
-2. 💪 Opened PR [#3](https://github.com/DungGramer/auto-dang-ky-tin-hvnh/pull/3) in [DungGramer/auto-dang-ky-tin-hvnh](https://github.com/DungGramer/auto-dang-ky-tin-hvnh)
+1. 💪 Opened PR [#9](undefined) in [dungcoding/useful-code](https://github.com/dungcoding/useful-code)
+2. 💪 Opened PR [#6](undefined) in [DungGramer/docs](https://github.com/DungGramer/docs)
 3. 💪 Opened PR [#3](https://github.com/DungGramer/split-button/pull/3) in [DungGramer/split-button](https://github.com/DungGramer/split-button)
 <!--END_SECTION:activity-->
 
