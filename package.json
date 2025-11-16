@@ -6,6 +6,8 @@
   "scripts": {
     "start": "webpack serve --config ./config/webpack.dev.js --open --progress --color ",
     "build": "webpack --config ./config/webpack.prod.js --progress --color --mode production",
+    "build:analyze": "ANALYZE=true npm run build",
+    "build:stats": "webpack --config ./config/webpack.prod.js --mode production --json > stats.json",
     "serve": "serve -s dist",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
@@ -51,6 +53,7 @@
     "stylelint-scss": "^4.2.0",
     "terser-webpack-plugin": "^5.3.3",
     "webpack": "^5.73.0",
+    "webpack-bundle-analyzer": "^4.10.2",
     "webpack-cli": "^4.10.0",
     "webpack-dev-server": "^4.9.2",
     "webpack-merge": "^5.8.0"

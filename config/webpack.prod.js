@@ -2,6 +2,7 @@ const HtmlWebpackPlugin = require('html-webpack-plugin');
 const { CleanWebpackPlugin } = require('clean-webpack-plugin');
 const TerserPlugin = require('terser-webpack-plugin');
 const MiniCssExtractPlugin = require('mini-css-extract-plugin');
+const { BundleAnalyzerPlugin } = require('webpack-bundle-analyzer');
 
 const { merge } = require('webpack-merge');
 const common = require('./webpack.common');
@@ -73,6 +74,18 @@ module.exports = merge(common, {
       filename: 'assets/css/[name].[hash:8].css',
       chunkFilename: 'assets/css/[name].[hash:8].css',
     }),
+    // Bundle Analyzer - run with ANALYZE=true npm run build
+    ...(process.env.ANALYZE
+      ? [
+          new BundleAnalyzerPlugin({
+            analyzerMode: 'static',
+            reportFilename: 'bundle-report.html',
+            openAnalyzer: true,
+            generateStatsFile: true,
+            statsFilename: 'bundle-stats.json',
+          }),
+        ]
+      : []),
   ],
   optimization: {
     splitChunks: {
@@ -117,5 +130,15 @@ module.exports = merge(common, {
         },
       }),
     ],
+  },
+  // Performance Budgets - Fail build if exceeded
+  performance: {
+    hints: 'error',
+    maxEntrypointSize: 50000, // 50KB for initial load
+    maxAssetSize: 100000, // 100KB for any single asset
+    assetFilter: function (assetFilename) {
+      // Only check JS and CSS files
+      return /\.(js|css)$/.test(assetFilename);
+    },
   },
 });
