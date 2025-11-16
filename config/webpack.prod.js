@@ -26,13 +26,26 @@ module.exports = merge(common, {
   module: {
     rules: [
       {
-        test: /s?css$/,
+        test: /\.scss$/,
         use: [
           MiniCssExtractPlugin.loader,
           'css-loader',
-          'sass-loader',
+          {
+            loader: 'sass-loader',
+            options: {
+              api: 'modern',
+              sassOptions: {
+                // Modern Sass options
+                silenceDeprecations: ['legacy-js-api'],
+              },
+            },
+          },
           postCSS,
         ],
+      },
+      {
+        test: /\.css$/,
+        use: [MiniCssExtractPlugin.loader, 'css-loader', postCSS],
       },
     ],
   },
@@ -76,9 +89,30 @@ module.exports = merge(common, {
       new TerserPlugin({
         parallel: true,
         terserOptions: {
-          ecma: 6,
+          // Target ES5 for IE6+ compatibility
+          ecma: 5,
           compress: {
-            drop_console: true,
+            // Keep console for debugging on legacy browsers
+            drop_console: false,
+            // IE6-safe optimizations
+            dead_code: true,
+            drop_debugger: true,
+            // Don't transform typeof undefined to void 0 (IE6 issue)
+            typeofs: false,
+            // Preserve IE6-compatible code
+            ie8: true,
+          },
+          mangle: {
+            // Safe property mangling for IE6
+            safari10: true,
+            ie8: true,
+          },
+          format: {
+            // Keep comments for IE conditional compilation
+            comments: /^\**!|@preserve|@license|@cc_on/i,
+            // IE6-safe formatting
+            safari10: true,
+            ie8: true,
           },
         },
       }),

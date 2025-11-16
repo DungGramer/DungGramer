@@ -26,8 +26,26 @@ module.exports = {
         },
       },
       {
-        test: /\.s?css$/,
-        use: ['style-loader', 'css-loader', 'sass-loader', postCSS],
+        test: /\.scss$/,
+        use: [
+          'style-loader',
+          'css-loader',
+          {
+            loader: 'sass-loader',
+            options: {
+              api: 'modern',
+              sassOptions: {
+                // Modern Sass options
+                silenceDeprecations: ['legacy-js-api'],
+              },
+            },
+          },
+          postCSS,
+        ],
+      },
+      {
+        test: /\.css$/,
+        use: ['style-loader', 'css-loader', postCSS],
       },
     ],
   },

@@ -1,3 +1,6 @@
+/* Import IE6 utility classes */
+@use './polyfill/ie6-utilities.scss';
+
 :root {
   --black: hsl(0deg 0% 27%);
   --black-focus: hsl(0deg 0% 18%);
@@ -40,6 +43,8 @@ html {
     Cantarell,
     'Helvetica Neue',
     sans-serif;
+  /* IE6 fallback color */
+  color: #454545;
   color: var(--black);
 }
 
@@ -75,6 +80,8 @@ ul li + li {
 
 a {
   text-decoration: none;
+  /* IE6 fallback color */
+  color: #454545;
   color: var(--black);
 }
 
@@ -83,6 +90,8 @@ a {
   a:not(.pdf) {
     display: inline-block;
     position: relative;
+    /* IE6 fallback color */
+    color: #454545;
     color: var(--black);
     background-clip: text;
     background-image:
@@ -106,6 +115,8 @@ a {
       left: 0;
       height: 3px;
       width: 0;
+      /* IE6 fallback color */
+      background: #4387f4;
       background: var(--blue);
       transition: all .3s ease-in-out;
     }
@@ -122,6 +133,8 @@ a {
 
 
 a:focus {
+  /* IE6 fallback color */
+  color: #2e2e2e;
   color: var(--black-focus);
 }
 

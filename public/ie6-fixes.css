@@ -1,0 +1,296 @@
+/**
+ * IE6 CSS Fixes and Workarounds
+ * This file contains CSS hacks and fixes specifically for Internet Explorer 6
+ */
+
+/* Fix box model (IE6 uses quirks mode box model) */
+* html * {
+  box-sizing: border-box;
+}
+
+/* Fix double margin bug on floated elements */
+* html .float-left,
+* html .float-right {
+  display: inline;
+}
+
+/* Fix min-height for IE6 (doesn't support min-height) */
+* html body {
+  height: 100%;
+}
+
+* html .min-height {
+  height: auto !important;
+  height: 100%;
+  min-height: 100%;
+}
+
+/* Fix min-width and max-width for IE6 */
+* html .min-width {
+  width: auto !important;
+  width: 100%;
+  min-width: 100%;
+}
+
+/* Fix position: fixed (IE6 doesn't support it) */
+* html .fixed {
+  position: absolute;
+  top: expression(eval(document.documentElement.scrollTop));
+}
+
+/* Fix PNG transparency using AlphaImageLoader filter */
+* html img,
+* html .png-fix {
+  behavior: expression((this.runtimeStyle.behavior="none")&&(this.pngSet?this.pngSet=true:(this.nodeName == "IMG" && this.src.toLowerCase().indexOf('.png')>-1?(this.runtimeStyle.backgroundImage = "none",this.runtimeStyle.filter = "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='" + this.src + "', sizingMethod='image')",this.src = "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"):(this.origBg = this.origBg? this.origBg :this.currentStyle.backgroundImage.toString().replace('url("','').replace('")',''),this.runtimeStyle.filter = "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='" + this.origBg + "', sizingMethod='crop')",this.runtimeStyle.backgroundImage = "none")),this.pngSet=true));
+}
+
+/* Fix clearfix for IE6 */
+* html .clearfix {
+  height: 1%;
+}
+
+/* Fix overflow: hidden for IE6 */
+* html .overflow-hidden {
+  overflow: hidden;
+  position: relative;
+}
+
+/* Fix :hover pseudo-class (only works on <a> in IE6) */
+/* This requires JavaScript polyfill for non-anchor elements */
+
+/* Fix for inline-block (IE6 doesn't support it) */
+* html .inline-block {
+  display: inline;
+  zoom: 1;
+}
+
+/* Fix CSS variables (IE6 doesn't support them) - use static values */
+* html :root {
+  /* Fallback colors for CSS variables */
+}
+
+* html body {
+  color: #454545; /* Fallback for var(--black) */
+}
+
+* html a {
+  color: #454545; /* Fallback for var(--black) */
+}
+
+* html .blue,
+* html a:hover {
+  color: #4387f4; /* Fallback for var(--blue) */
+}
+
+/* Fix percentage-based widths in IE6 */
+* html .container {
+  width: expression(document.body.clientWidth > 1200 ? "1200px" : "auto");
+}
+
+/* Fix z-index issues in IE6 */
+* html select {
+  position: relative;
+  z-index: 1;
+}
+
+/* Fix background-position percentage in IE6 */
+* html .bg-position {
+  background-position: 0 0;
+}
+
+/* Fix for multiple class selectors (IE6 only supports single class) */
+/* This requires using single classes or JavaScript workarounds */
+
+/* Fix for child selectors (limited support in IE6) */
+/* Use descendant selectors instead when possible */
+
+/* Fix for attribute selectors (not supported in IE6) */
+/* Use classes instead of attribute selectors */
+
+/* Fix for :first-child pseudo-class (not supported in IE6) */
+/* Use classes or JavaScript instead */
+
+/* Fix display: table (not supported in IE6) */
+* html .table {
+  display: block;
+}
+
+* html .table-row {
+  display: block;
+}
+
+* html .table-cell {
+  display: inline-block;
+  zoom: 1;
+}
+
+/* Fix CSS3 features (not supported in IE6) */
+/* Border-radius, box-shadow, text-shadow, etc. require JavaScript polyfills */
+
+/* Fix for viewport units (not supported in IE6) */
+* html .viewport-width {
+  width: expression(document.body.clientWidth + "px");
+}
+
+* html .viewport-height {
+  height: expression(document.body.clientHeight + "px");
+}
+
+/* Fix for calc() (not supported in IE6) */
+/* Use JavaScript expressions instead */
+
+/* Fix for flexbox (not supported in IE6) */
+/* Use float-based layouts instead */
+* html .flex {
+  display: block;
+}
+
+* html .flex-item {
+  float: left;
+}
+
+/* Fix for grid (not supported in IE6) */
+/* Use float-based or table layouts instead */
+* html .grid {
+  display: block;
+}
+
+/* Fix whitespace between inline-block elements */
+* html .inline-block-container {
+  font-size: 0;
+}
+
+* html .inline-block-container > * {
+  font-size: 16px;
+}
+
+/* Fix hasLayout triggers for IE6 */
+* html .haslayout {
+  zoom: 1;
+}
+
+/* Fix for absolute positioning within relative containers */
+* html .relative {
+  position: relative;
+  zoom: 1;
+}
+
+/* Fix for opacity (not supported in IE6) */
+* html .opacity-50 {
+  filter: alpha(opacity=50);
+}
+
+* html .opacity-75 {
+  filter: alpha(opacity=75);
+}
+
+* html .opacity-25 {
+  filter: alpha(opacity=25);
+}
+
+/* Fix for max-height (not supported in IE6) */
+* html .max-height {
+  height: expression(this.scrollHeight > 600 ? "600px" : "auto");
+}
+
+/* Fix for box-shadow approximation using borders */
+* html .box-shadow {
+  border: 1px solid #ccc;
+  border-right-color: #999;
+  border-bottom-color: #999;
+}
+
+/* Fix for border-radius approximation */
+/* Requires JavaScript library like CSS3 PIE */
+
+/* Fix for text-overflow: ellipsis (not supported in IE6) */
+* html .ellipsis {
+  overflow: hidden;
+}
+
+/* Fix for word-wrap (not supported in IE6) */
+* html .word-wrap {
+  word-wrap: break-word;
+}
+
+/* Fix for box-sizing (not supported in IE6) */
+* html .box-sizing {
+  /* IE6 always uses content-box */
+}
+
+/* Fix for @media queries (not supported in IE6) */
+/* Use JavaScript-based solutions like Respond.js */
+
+/* Fix for multiple backgrounds (not supported in IE6) */
+/* Use single background or nested elements */
+
+/* Fix for linear gradients (not supported in IE6) */
+* html .gradient {
+  filter: progid:DXImageTransform.Microsoft.Gradient(startColorstr='#4387f4', endColorstr='#2c5aa0', GradientType=0);
+}
+
+/* Fix for transforms (not supported in IE6) */
+/* Use IE's filter for simple rotations */
+* html .rotate-90 {
+  filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=1);
+}
+
+/* Fix for transitions (not supported in IE6) */
+/* No fallback available - graceful degradation */
+
+/* Fix for animations (not supported in IE6) */
+/* No fallback available - graceful degradation */
+
+/* Fix for pointer-events (not supported in IE6) */
+/* No fallback available - use JavaScript */
+
+/* Common utility fixes */
+* html .clear {
+  clear: both;
+  display: block;
+  height: 0;
+  overflow: hidden;
+}
+
+* html .hide {
+  display: none;
+}
+
+* html .show {
+  display: block;
+}
+
+/* Fix for A4 container */
+* html .A4 {
+  width: 210mm;
+  height: 297mm;
+  padding: 10mm;
+}
+
+* html .container {
+  width: 100%;
+  max-width: expression(document.body.clientWidth > 1200 ? "1200px" : "100%");
+}
+
+/* Fix list styles */
+* html ul,
+* html ol {
+  margin-left: 20px;
+}
+
+/* Fix for modern pseudo-elements */
+* html .before,
+* html .after {
+  /* Use real elements instead of ::before and ::after */
+}
+
+/* Print media fixes for IE6 */
+@media print {
+  * html body {
+    background: white;
+  }
+
+  * html .no-print {
+    display: none;
+  }
+}

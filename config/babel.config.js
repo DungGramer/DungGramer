@@ -4,8 +4,17 @@ module.exports = {
       '@babel/preset-env',
       {
         targets: {
-          ie: '11',
+          ie: '6',
         },
+        // Use 'usage' to only include polyfills that are actually used
+        // This significantly reduces bundle size for modern browsers
+        useBuiltIns: 'usage',
+        corejs: {
+          version: '3.22',
+          proposals: true,
+        },
+        // Enable module transformation for better tree-shaking
+        modules: false,
       },
     ],
     [
@@ -17,4 +26,21 @@ module.exports = {
     ],
   ],
   comments: false,
+  // Ensure modern browsers get optimized code
+  env: {
+    modern: {
+      presets: [
+        [
+          '@babel/preset-env',
+          {
+            targets: {
+              esmodules: true,
+            },
+            useBuiltIns: false,
+            modules: false,
+          },
+        ],
+      ],
+    },
+  },
 };
