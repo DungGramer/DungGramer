@@ -118,9 +118,9 @@
   <summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com/DungGramer/auto-dang-ky-tin-hvnh/pull/5) in [DungGramer/auto-dang-ky-tin-hvnh](https://github.com/DungGramer/auto-dang-ky-tin-hvnh)
-2. 💪 Opened PR [#11](https://github.com/DungGramer/angular-code-with-mosh/pull/11) in [DungGramer/angular-code-with-mosh](https://github.com/DungGramer/angular-code-with-mosh)
-3. 💪 Opened PR [#3](https://github.com/DungGramer/snowpack-react-boilerplate/pull/3) in [DungGramer/snowpack-react-boilerplate](https://github.com/DungGramer/snowpack-react-boilerplate)
+1. 🚀 Published release [v3.0.1 — Security hardening: 12 audit vectors closed](https://github.com/DungGramer/constancy/releases/tag/v3.0.1) in [DungGramer/constancy](https://github.com/DungGramer/constancy)
+2. 🚀 Published release [v3.0.0 — Security-hardened immutability toolkit](https://github.com/DungGramer/constancy/releases/tag/v3.0.0) in [DungGramer/constancy](https://github.com/DungGramer/constancy)
+3. 🔒 Closed issue [#28](https://github.com/DungGramer/constancy/issues/28) in [DungGramer/constancy](https://github.com/DungGramer/constancy)
 <!--END_SECTION:activity-->
 
 </details>
