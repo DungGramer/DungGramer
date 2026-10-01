@@ -118,7 +118,7 @@
   <summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v3.0.1 — Security hardening: 12 audit vectors closed](https://github.com/DungGramer/constancy/releases/tag/v3.0.1) in [DungGramer/constancy](https://github.com/DungGramer/constancy)
+1. 🚀 Published release [v2.7.2](https://github.com/DungGramer/pikpak-multi-download/releases/tag/v2.7.2) in [DungGramer/pikpak-multi-download](https://github.com/DungGramer/pikpak-multi-download)
 2. 🚀 Published release [v3.0.0 — Security-hardened immutability toolkit](https://github.com/DungGramer/constancy/releases/tag/v3.0.0) in [DungGramer/constancy](https://github.com/DungGramer/constancy)
 3. 🔒 Closed issue [#28](https://github.com/DungGramer/constancy/issues/28) in [DungGramer/constancy](https://github.com/DungGramer/constancy)
 <!--END_SECTION:activity-->
